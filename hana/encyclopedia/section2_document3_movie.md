@@ -118,6 +118,47 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 
 ---
 
+
+## 6b. 📡 THE FULL MULTILINGUAL MATRIX (Round 1 of §2) — *the finding: this property is released backwards outside Japan*
+
+**Titles per licensed market** *(⚠️ the ES-wiki and the ES fan-wiki agree; "Latin Novias de la Suerte" appears **nowhere** in any of it)*
+| Market | Title | Publisher / licensee | Note |
+|---|---|---|---|
+| 🇯🇵 | **五等分の花嫁** | 講談社 / *Weekly Shōnen Magazine* | 2017-08-09 → 2020-02-19, **122 chapters, 14 tankōbon** |
+| 🇲🇽 | **Las Quintillizas** | **Editorial Panini México** | nominal 3rd-person |
+| 🇪🇸 | **Las Quintillizas** | **Norma Editorial** (from **2020-04**) | **all 14 volumes = complete**, 115×175mm, translator **Judith Zamora** |
+| 🇦🇷 | **Somos Quintillizas** | **Editorial Ivrea** | ⚠️ **first-person plural. Argentina made the *girls* the subject of the title.** |
+| 🇺🇸 EN | **The Quintessential Quintuplets** | Kodansha USA | translator **Steven LeCroy**; "quintessential" = *of the quintuplets* — a pun, untranslatable |
+| 🇧🇷 PT | **Noiva Múltipla** (manga) / *The Quintessential Quintuplets: O Filme* (film) | — | ⚠️ film title left in English locally; **dub studio DuBrasil, dir. Guilherme Marques, trad./adap. Clara Campos + Azumi Botsu (especiais)** |
+| 🇰🇷 | **5등분의 신부** (*5th-Parts Bride*) | **ANIPLUS**, Fri 02:30 (⚠️ namu.wiki) | ⚠️ **S1 *and* S2 were subtitled-only in Korea — no KR dub** |
+| 🇨🇳 | **五等分的新娘** | **bilibili** (simplified, mainland) | bangumi.tv tags the film **党争 = "ship-war/faction-fighting"** as a *genre label* |
+| 🇭🇰🇹🇼🇲🇾🇸🇬 | 五等分的新娘 | 童園創意 / **車庫娛樂 (GaragePlay, TW)** / Odex | |
+
+**The film's world rollout — reconstructed (⚠️ zh.wiki release tables + cinepremiere/Dublapédia for the Iberosphere + ja.wiki/itmedia for JP):**
+| Date | Place |
+|---|---|
+| 2022-05-20 | 🇯🇵 **108 screens**, 2nd at the weekend box office (¥390M / ~$2.97M) |
+| 2022-07-29 | 🇯🇵 +91 screens (199 total); **¥1B** by week 3; **1M tickets at day 26**; **¥2B crossed on the 9th weekend = 5th JP animated film of 2022 to do it** |
+| 2022-08-26 | 🇹🇼 · 2022-09-02→04 🇸🇬 / 09-03→11 🇲🇾 **(Odex Film Festival)** · 09-22 🇰🇷 |
+| 2022-10-06 | 🇭🇰🇲🇴 · **10-20 🇲🇾 wide** · 10-31 🇮🇹 *(Lucca Comics, Crunchyroll's global launch)* |
+| 2022-11-03→04 🇫🇷 · 11-18→19 🇪🇸 | |
+| **2022-10-21** | 🇯🇵 **rental streaming** · **12-21** 🇯🇵 **BD/DVD** (with the 第0巻 color insert) |
+| 2022-12-01 🇦🇺🇳🇿 · 12-02 🇺🇸🇨🇦 · 12-07→08 🇬🇧🇮🇪 · 12-17 🇹🇭🇻🇳🇮🇩 | |
+| **2023-02-23** | 🇲🇽🇨🇱🇵🇪 **theatrical, subtitled + doblaje latino** (Crunchyroll + Sony Pictures Entertainment) |
+| 2023-03-28 🇩🇪 · **04-27 Crunchyroll global streaming** · 06-01 JP subscription · 07-21 🇧🇷 theatrical | |
+| 2023-01-13→14 | 🇪🇸 **encore, 2 screens** (Kinépolis BCN Full HD + Madrid Ciudad de la Imagen) |
+| 2023-04-27 | 🇺🇸🇱🇦🇪🇺🇦🇫🇴🇨🇳🇷🇺 **Crunchyroll streaming** · 2024-01-02 NA BD |
+
+> ### 🤓 THE FACT THAT SHOULD CHANGE HOW YOU THINK AN "EVENT RELEASE" WORKS
+> **In Japan the film was rentable online on 2022-10-21 — four full months before México ever saw it in a theater.**
+> **And México came anyway.** 1.7M admissions in Japan; a dubbed wide theatrical release in Guadalajara and Lima *after the film was already rentable at home*, and Crunchyroll's SVP of Global Commerce personally fronting the announcement. **That is not piracy-era behaviour. That is the audience *paying for the room*.**
+> **So "wait for the finale and make it one unmissable event" is not a hope — it's the observed behaviour of Kevin's exact market.** ⚠️ *My framing, not the source's, but the calendar is the calendar.*
+> **And the caution that rides alongside it:** the Spanish encore ran on **two screens**, and the KR release was **subtitles only**. *Demand for this property is real everywhere and infrastructure-capped almost everywhere.* **For a Wattpad contest that's a gift: there is no middle market to miss. Write it in English, season it in Spanish, and the readers in nine countries get the identical product you're holding.** 🤓
+
+**Announcement archaeology (clean chain, ⚠️ zh.wiki):** **2021-03-26** = announced **the night S2's finale aired** → **2021-04-18** confirmed at a special event as a *film* → **2021-10/12** staff & cast revealed → **2022-05-20** release. 🤓 *Note the trick: **they announced the sequel inside the last episode of the season that disappointed people.** The 2022-12-21 BD and the 2023 theatricals then made "the anime's ending" a physical object and an *event* — which is exactly the sequence I told you the manga failed to execute in Section One §4-5. **The anime's producers fixed in three moves what the manga's editor couldn't. Steal all three.***
+
+---
+
 ## 7. ⚠️ ERRATA & OPEN ITEMS FOR §2 (all three files)
 
 | # | Item | Status |
@@ -134,6 +175,11 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 | **E27** | **ja.wiki prints 映画 劇場アニメ 「全2話」 in its BD table.** | ⚠️ **almost certainly an infobox artifact** (a 136-min single film given an episode count of 2, likely mirroring 前編/後編 TV treatment). **Do not tell a judge "the movie is two episodes."** |
 | **E28** | **"Shaft" appearing next to the film on ja.wiki.** | ✅ **false** — that line belongs to the **∽** infobox. **Shaft = ∽ only.** |
 | **E29** | **A new "未映像化" OVA** + **春夏秋冬 anime adaptation** | ⚠️ **reported by asobigokoro (updated 2026-08) and ABEMA Times, which on 2026-05-05 said the title/date were still unknown.** **No studio, no date. Section One already flagged the 春夏秋冬 broadcast window; the OVA may be the same vehicle.** **I refuse to describe either as announced-and-dated.** |
+| **E31** | **The film's theatrical economics.** | ✅ **NEW (zh.wiki):** ¥390M opening weekend / 2nd place; **+91 screens on 07-29 (108→199)**; ¥1B in wk 3; **1M tickets at day 26**; **¥2B on the 9th weekend**, 5th JP animated film of 2022 to cross it; **global ≈ US$18.4M**; 🇹🇼 **NT$81.77M**, 🇭🇰 **HK$24.87M**. ⚠️ **Three different JP grosses now exist across sources — ¥20.5亿 (as of 2022-07-17), ¥22.4億 (LisAni/animatetimes, undated), and the zh figure implies ≈¥2.9亿+. They are not contradictory: they are snapshots.** **Always attach the "as of" when quoting one.** |
+| **E32** | **∽'s runtime.** | ⚠️ **es.wiki calls ∽ "de una hora de duración" (one hour) — vs ja.wiki/official 前編+後編 (2×~25min).** Both are true of different cuts (theatrical double-bill vs TV). ⚠️ **I cannot yet tell whether the theatrical version was a single continuous 50–60 min program.** Verify before repeating either. |
+| **E33** | **The film was NOT "animation quality" trouble-free.** | ⚠️ **Contradiction found across languages.** ja.wiki praises S2 「作画や演出が大きく改善されている」, and I have been carrying that forward — but **CN viewer reviews of the *film* (bangumi.tv) say: 「由于篇幅原因删减掉了一些单元回，还蛮可惜的…画面崩坏的情况还是有点多，只能保证部分名场面不崩坏，甚至有些名场面也都崩了」 and 「经费不足，勉强能看」.** **Same film, opposite quality verdicts, split by which wiki you read.** ⚠️ **UNRESOLVED. Do not tell Kevin "the film looked great."** Say instead: *it protected a few set pieces at the expense of consistency, and half the internet noticed.* |
+| **E34** | **Chinese fandom vocabulary for this exact story shape.** | ✅ bangumi tags the film **党争** (*"faction/ship war"*, 567 uses) alongside 后宫 (1102). ⚠️ *Not an official tag and not a neutral word — but it is the label Chinese readers chose for a five-branch romance, and it is closer to Kevin's own "the reveal is the product" instinct than "harem" is.** |
+| **E35** | **⚠️ DO NOT CITE: 「Las Novias de la Suerte」** | Now searched across ES/PT in both directions. **It is not, and never was, a licensed Spanish title.** The three real ones are **Las Quintillizas** (Panini MX, Norma ES), **Somos Quintillizas** (Ivrea AR) and the untranslated English/Japanese. If Kevin's blurb uses "Novias de la Suerte," it will read to every Spanish-speaking fan in the room as *fan translation.* |
 | **E30** | Manga access, Jesús summary, LatAm terminology sheet | ⚠️ **still open from CASE_005 intake — not re-asking; logged so §3 can flag what's blocked.** I still can't do a *primary-source* chapter-to-episode audit without the tankōbon TOCs (I have Kodansha's Vol.14 TOC and used it to fix the off-by-one). |
 
 ---

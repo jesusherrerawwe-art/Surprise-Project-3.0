@@ -7,7 +7,7 @@
 | § | Document | Subject | Status |
 |---|---|---|---|
 | 1 | `section1_story_behind_anime.md` | **The story behind the anime** — author, origins, serialization, adaptation history, the finale & its backlash, the ancillary machine | ✅ **COMPLETE (Rounds 1–3 of 3)** |
-| 2 | **3 files** → `section2_document1_season1.md` · `section2_document2_season2.md` · `section2_document3_movie.md` | Main chapters — **one document per season + one for the film** (Kevin's call), each fully mapped to manga material, with cut ledgers, disc sales, theme-song forensics and errata E18–E30 | ✅ **COMPLETE** |
+| 2 | **3 files** → `section2_document1_season1.md` · `section2_document2_season2.md` · `section2_document3_movie.md` | Main chapters — **one document per season + one for the film** (Kevin's call), each fully mapped to manga material, with cut ledgers, disc sales, theme-song forensics, the popularity ledger and errata E18–E35 | ✅ **Rounds 0–1 of 3 written** · 🔄 **Round 2 = the per-sister screen-time census (the payload)** · 🔒 Round 3 = audit + fill-in OVA / 春夏秋冬 / film staff block |
 | 2′ | ~~`section2_main_chapters.md`~~ | *superseded by the three-file split above* | ➖ retired |
 | 3 | `section3_characters.md` | Main & secondary characters | 🔒 not started |
 | 4 | `section4_fun_facts.md` | Fun facts / trivia | 🔒 not started |
