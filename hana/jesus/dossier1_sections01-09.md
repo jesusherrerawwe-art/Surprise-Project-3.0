@@ -112,3 +112,136 @@ With Antonio's support, however, and the promise to Sakura still in his heart, h
 > ***Be kind. Stay honest. Be himself. Even if his mother's parents might not accept him at first.***
 
 **(9 out of 18)**
+
+---
+---
+
+# 📜 SECTIONS 10–17 (VERBATIM · received 2026-08-30, same day)
+**Kevin's wording, unedited. §18 (Writer's Notes) not yet sent. His own footer for the first half read "(9 out of 18)"; this half closes §10–§17. Note the renumbering vs. his ToC: **Final Heroine = §14, Timeline = §15, Trivia = §16, Rena & Sakura = §17** — filed as sent, and the ToC above is left as-written so the drift is visible.**
+
+## 10. Entry into the Story
+**Asahiyama High School:** Several weeks after arriving in Japan, Jesús enrolls at Asahiyama High School, drawn in part by its competitive football program. On Antonio's advice, he brings a bag full of Mazapanes de la Rosa for his introduction to the class. The crumbly Mexican peanut candy proves to be an effective icebreaker — although half the class destroys theirs while trying to remove the wrappers, a sacrifice Chuy solemnly declares "worth it."
+His introduction is energetic, slightly too long, and delivered in Japanese that becomes increasingly Spanish whenever he grows nervous. By the end of it, the class knows four things: he is from Guadalajara; his father makes perfume; Chivas is superior to every club they support; and their lives are about to become louder and messier — for better or worse.
+He earns the nickname "Kintaro" from his football team — because of the gold in his hair, and because apparently nobody in the school can pronounce Jesús or Chuy correctly.
+They're both names that must be earned…
+Within weeks he has both friends and foes — people who orbit his warmth, and people who find a transfer student this loud genuinely unbearable. Then the football club hands the captain's armband to a second-year who has been in the country for a month. Half the roster is outraged; the other half would follow him into traffic. The coach's reasoning is simpler than anyone expects: "He makes everyone around him braver." A captain is not always the best player. Sometimes he is the loudest heart.
+**First Meeting with Yotsuba:** Chuy meets Yotsuba Nakano during lunch on his first week. They recognize one another almost immediately as the same species of person: enthusiastic athletes who would rather exhaust themselves outdoors than spend one more hour quietly studying.
+Yotsuba is fascinated by his life in Mexico, while Jesús is relieved — profoundly, audibly relieved — to meet someone whose friendliness requires no complicated cultural translation.
+Their conversation begins with track and football, drifts into school clubs, and somehow ends with Yotsuba attempting to pronounce "Guadalajara" at full speed. (Verdict: heroic attempt. Casualties: three.)
+After school, they agree to work together on Mr. Suzuki's geometry assignment. By "work together," they mean that they spend twenty minutes engaged in pure chisme — gossip of the highest grade — while Chuy explains why he moved to Japan and describes his father's strangest perfumes. Their notebooks remain completely, immaculately untouched.
+It is the first clear sign that Jesús is not going to replace Fuutarou Uesugi as this story's academic genius.
+At least, not anytime soon.
+**Where the Main Plot Begins:** Jesús enters the story a few days before the central events of the original opening: Fuutarou's disastrous first encounter with Itsuki Nakano, which once again ends with him insulting her weight and earning her immediate hatred.
+In this version, however, Fuutarou is under even greater pressure. His family's debt is worsening, his father Isanari has recently lost a source of income, and Raiha needs new school supplies. To Fuutarou, tutoring the daughters of a wealthy family is no longer merely a fortunate job opportunity — it may be the only thing keeping his household afloat.
+He accepts the position as the quintuplets' tutor, just as in the original story.
+**The Night of the Conchas:** On Fuutarou's first evening in the Nakano penthouse, as originally scripted, Nino prepares to drug him and have him removed, hoping to end the tutoring arrangement before it can begin.
+Then the front door opens.
+Jesús walks in carrying a plastic bag filled with warm conchas — the shell-patterned Mexican sweet bread. He has come to thank Yotsuba for taking the time to talk to el chico nuevo these past few days, and to share something from home with her sisters.
+His timing could not be worse. Or, from Fuutarou's perspective, better.
+Chuy inadvertently ruins Nino's plan. With an unexpected guest in the apartment — and one who keeps cheerfully offering everyone bread — the situation becomes too public and too chaotic for her to dispose of Fuutarou unnoticed. The five sisters are forced to remain and endure the study session.
+As a result, Jesús earns Nino's maximum hostility before he even understands that she dislikes him.
+(And not only because he interrupted her plans: later in the story he ends up feeding her family behind her back — tacos al pastor, tortas ahogadas, quesadillas — and her sisters seem to like it. What no one has pointed out to Chuy is that cooking is Nino's love language. He isn't just feeding her sisters. He is speaking her language, fluently, in her own house, without a permit.)
+The others grant him a small amount of goodwill, mostly because of the conchas. Yotsuba is delighted. Itsuki takes a second one when she believes nobody is watching. Miku quietly asks what the sugar topping is made from. Ichika finds the entire disaster extremely entertaining.
+Fuutarou simply wonders why his life has become more complicated in the span of five minutes.
+**The Failed Exams:** Over the following days, Jesús slowly adapts to Asahiyama — gaining both friends and enemies, joining the football team, becoming its captain, continuing to cross paths with Yotsuba, and beginning to form separate relationships with each of the other sisters. Nino, meanwhile… that's another story.
+Behind the scenes, Antonio works tirelessly to prepare Nippon Maya's Japanese storefront — without realizing that Maruo is already digging into him, after finding a photo of Rena and Sakura together (maybe a bit too close).
+Then the first exams of the term arrive.
+To Fuutarou's complete lack of surprise, all five sisters fail. He is furious — with them and with himself — but chooses not to tell Maruo immediately.
+To Jesús's genuine surprise, he fails too.
+Between adapting to Japan, translating lessons in his head, football practice, and the excitement of hunting for Mexican ingredients in Aichi, he has neglected his studies. To make matters worse, a girl connected to the football club — an original character and a future source of romantic complications — has already taken an interest in him.
+A sweet girl. An earnest girl. A girl with a deeply wrong vision of Mexico: she believes Cinco de Mayo is Mexican Independence Day, and that Taco Bell tacos are real tacos. Chuy has begun keeping a list titled "Things I Need to Gently Explain to Her." The list is getting long.
+Like the quintuplets, Chuy tries to hide his grade. In his case, he keeps it from Antonio, whose new Nippon Maya shop is holding its grand opening that very day. He cannot bear to place bad news beside his father's long-awaited success — a success that came a bit too late for Sakura.
+At lunch, Jesús approaches Yotsuba and her sisters. Nino tells him to leave, but Ichika intervenes before the argument can escalate. Chuy asks how they performed on the exams.
+Yotsuba, unwilling to disappoint her new friend, claims that they did wonderfully.
+Jesús believes her without question.
+He praises Fuutarou for being an amazing tutor. A strained, carefully concealed laugh passes around the table.
+Then Chuy asks the question that changes the course of the story:
+***"Can I study with you guys?"***
+**Fuutarou's Decision:** Fuutarou has overheard the entire conversation. His answer is immediate and absolute: No.
+Five failing students are already five more than he wants to handle. Adding an easily distracted footballer who brings food into every serious situation sounds like a punishment designed specifically for him.
+Then Chuy offers to pay for the lessons — even double, if necessary.
+Fuutarou reluctantly agrees, even if his pride says otherwise.
+He warns Chuy that he had better not cause more trouble than the quintuplets already do. Jesús promises, with complete sincerity, that he will be the least troublesome person in the room.
+This becomes the first promise he breaks.
+Neither Fuutarou nor Nino realizes that the study group has just welcomed its most chaotic and unpredictable variable.
+
+## 11. What Lies Ahead — Story Hooks
+Yet the road ahead involves far more than schoolwork and some canon's original events with Chuy in the middle:
+- **The actress.** Antonio's business begins attracting powerful attention — including a famous actress who may become the face of Nippon Maya Japan, and who will put to the test what Antonio still feels for his late wife.
+- **Maruo's shadow.** The director of a major hospital watches events from a distance, financing the Hernández family's new life for reasons Chuy cannot yet understand — reasons that begin with an old photograph and end somewhere in the past.
+- **The scholarship.** A university football scholarship offers Jesús a future that may pull him away from his new friends, his father, and the promise he made.
+- **The romantic rivalry.** Growing feelings, colliding priorities, and at least one girl with a Taco Bell-based understanding of his homeland.
+- **Grief and expectation.** Buried sorrows on both sides of the ocean — his own, his father's, and the one his mother carried to the grave.
+- **The handover.** Fuutarou finds a new romantic route of his own — a different path with Takebayashi — and steps away from the group after he quits, leaving Chuy holding the study group, the friendships, and the story itself together.
+- **The Double-Kintaro Problem (expansion).** The day Fuutarou's blonde alter ego finally surfaces, the school will already contain a boy actually nicknamed Kintaro. The universe did not do this by accident, and neither did Hana.
+- **The salsa bottle will run out (expansion).** A tiny, terrible deadline: the day the last of Doña's salsa is gone, home becomes a memory that must be remade instead of tasted.
+- **The grandparents (expansion).** Two strangers who knew Sakura before anyone else did — and who must decide whether pride or grief wins.
+Chuy's life is about to change completely.
+
+## 12. Bonds at a Glance
+Statuses are provisional — every trajectory is Hana's call.
+- **Yotsuba Nakano** — Instant recognition, same species of athlete. Closest friend; kindred spirit; notebooks remain untouched.
+- **Nino Nakano** — Ruined her drugging plan with conchas. Maximum hostility; escalation pending via tacos; her eventual use of "Chu-kun" will be an event.
+- **Miku Nakano** — "What is the sugar topping made from?" Cautious curiosity from a safe distance; he is learning to lower his volume around her — roughly one decibel per month.
+- **Ichika Nakano** — Found the conchas disaster "extremely entertaining." Amused patronage; his chaos is her favorite show — possibly more, eventually.
+- **Itsuki Nakano** — The second concha (she believes nobody saw). Quiet food-based alliance; her Cinco de Mayo questions are almost correct, which he finds adorable.
+- **Fuutarou Uesugi** — "No." → paid double → "…fine." Reluctant tutor, reluctant respect; the two kinds of intelligence the group needs. Until there's only one remaining.
+- **Antonio Hernández** — Everything. Loud, warm, grieving father; unaware of what Maruo is digging up.
+- **The football girl (name TBD)** — Training-ground collision, presumably. Sweet, earnest, dangerously wrong about Mexico; future romantic complication.
+- **Maruo Nakano** — The money behind everything. Distant, unreadable; Chuy trusts him exactly as far as the tuition discount suggests he should.
+- **Sakura's parents** — An awkward encounter in Aichi. Estranged; the only living library of young Sakura.
+
+## 13. Recurring Motifs and Themes
+**Scent and Memory:** Nippon Maya's perfumes serve as recurring symbols throughout the story. Chuy associates people and memories with scents, even without his father's professional skill. Sakura petals remind him of a country his mother described but never got to show him. Bugambilia evokes Guadalajara. Limón con Sal represents home as he remembers it: bright, sharp, comforting, and impossible to separate from a little pain.
+Antonio's five experimental, quintuplet-inspired fragrances create a natural bridge between the rising Hernández family and the Nakano family — a bridge Maruo Nakano may already be plotting to cross.
+**Food as a Love Language:** Mazapanes to make friends. Conchas to say thank you. Tacos al pastor to say "I'm here now." For Chuy, feeding people is the grammar of affection — which is precisely why his cooking collides so violently with Nino's, the other person in the story who says everything through food. Two love languages, one kitchen, zero survivors.
+**A Name Must Be Earned:** Jesús, Chuy, Kintaro, Chu-kun — each name belongs to a different person, a different era, a different version of being loved. The story's quiet scoreboard is simply: what do they call him now?
+**The Meaning of Kindness:** His mother's lesson, half-learned: "putting your own needs aside for the greater good." The story's long argument — with the scholarship, with the failing grades, with the secrets he keeps — is about teaching him the other half: kindness that erases the person practicing it isn't kindness. It's just a slower way of disappearing. Sakura, wherever she is, would probably like to make an edit to that sentence too.
+**Cultural Displacement — "Ni de aquí, ni de allá":** Although Chuy has Japanese heritage and can speak the language, Japan does not automatically feel like home. He misses casual physical affection, loud neighbors, street food, familiar humor, and speaking without translating himself first. His arc is not about choosing between being Mexican (loud and funny) or Japanese (quiet and responsible). It is about understanding that he does not have to reduce himself to only one. Ni de aquí, ni de allá — from neither here nor there — until he understands that this makes him from somewhere new entirely.
+**Two Kinds of Intelligence — The Central Dynamic:** Fuutarou and Chuy are not replacements for one another; they represent opposite forms of it.
+Fuutarou understands textbooks, systems, and measurable solutions, but initially struggles to understand people. Chuy understands moods, relationships, and the value of simply showing up, but lacks discipline and frequently mistakes good intentions for good judgment.
+Fuutarou teaches Chuy how to build structure around his potential. Chuy teaches Fuutarou that helping someone is not always the same as correcting them.
+Together, they may become the two kinds of support the quintuplets need — but fate may have something different in store once Takebayashi enters the picture.
+
+## 14. The Final Heroine (or Heroines…)
+Five sisters. A football girl with excellent intentions and catastrophic geography. Someone who hasn't even appeared yet.
+A kid whose entire existence was a lie since birth...
+**The dossier does not know. Yet.**
+
+## 15. Timeline at a Glance
+- **May 5, Guadalajara** — Jesús is born (Cinco de Mayo)
+- **Childhood** — Sakura's Method: football statistics, tournament brackets, Dragon Ball Z
+- **Age 14** — Sakura diagnosed with terminal breast cancer; she declines aggressive treatment
+- **Age 15, May 5** — Sakura passes away at home, in her sleep, on his birthday. Thinking about her one true love
+- **Months later** — Maruo's offer arrives: Japan expansion, permanent relocation
+- **Age 16** — The move to Aichi · the despedida · the awkward grandparents · the conchas · the failed exams · "Can I study with you guys?"
+
+## 16. Trivia and Detail Registry
+- **The family calendar doubles as a Mexican history exam.** Born on Cinco de Mayo; parents married on September 16 — actual Independence Day. He did not choose this life, but he does enjoy correcting people about it.
+- **Pronunciation casualties.** "Jesús" (Hey-SOOS) has defeated every member of Asahiyama's faculty at least once. Hence: Kintaro.
+- **The Miku Incident.** Upon first hearing the name, he said "like the hologram singer?" out loud, immediately understood he had made a mistake, and then — being a terrible liar — made it worse for another forty seconds. They have not discussed it since. Miku has absolutely not forgotten.
+- **"El Profe."** He calls Fuutarou "Profe" — Mexican slang for teacher — half as an honorific, half to watch Fuutarou's eye twitch.
+- **The salsa bottle.** Homemade, gifted by a neighbor before the move, rationed like treasure. Refills are not possible. He is not ready to talk about what happens when it runs out.
+- **Karaoke policy.** Luis Miguel, full commitment, zero self-awareness. Ichika has footage.
+- **Urawa vs. Grampus.** His classmates' (plus a quintuplet) campaign to convert him to the local club is succeeding at a rate he finds alarming.
+- **The camera (expansion).** He photographs streets, meals, and unrepeatable moments with his mother's old camera. His camera roll is 90% evidence that he is happy and 10% insurance against forgetting.
+- **Two loud dads (expansion, optional).** Isanari Uesugi and Antonio Hernández are on a collision course toward either a beautiful friendship or the loudest dinner in Aichi. Possibly both. Raiha, for the record, adores Chuy immediately.
+
+## 17. About Rena and Sakura
+***(This whole subplot has its own Volume, after the story seems to have reached its climax, its happy ending after graduation, Futaro discovering his true feelings for Takebayashi and the sisters' full war over Chuy...)***
+***Hints are always there, waiting...***
+This is the part where I might actually need your help the most. I only have half an idea:
+• It turns out that Rena and Sakura were in a relationship before Antonio came into the picture. They both intended to get married, until their parents said no and suddenly became aggressive with each other. Seeking to protect her partner, Sakura fled to Mexico to avoid further conflict and promised to come back after she gained enough money to fight for her.
+She never intended to fall in love again. But she did.
+She created a life she never expected to have, to live, to love. She loved Antonio, she loved Chuy, but she never forgot her first love too.
+After getting cancer and hearing rumors about Rena falling ill too (she had actually already passed away...), Sakura, wanting to pay one last visit to her former love, started to save money secretly.
+The whole "refusing treatment" stuff was both for protecting her family and for wanting to keep this last wish alive.
+Just when she had bought the ticket to Japan and was preparing to talk about this with her husband, to tell him the truth, she passed away one day after.
+The ticket, plus the photograph and some old entries from a diary, makes Chuy believe the unthinkable. While Antonio learns the whole truth thanks to Maruo, Chuy only hears what his treacherous brain wants him to believe:
+*"Mi Mamá jamás me amó..."*
+*"Yo solo fui un escape, un premio de consolación"*
+*"Jamás debí existir..."*
+Just when the story seemed to have found its happy ending...
+Chuy runs away...
+And he might have no reasons to come back...
+*End of Chuy's lore. For now.*
