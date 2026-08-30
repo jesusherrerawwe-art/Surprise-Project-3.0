@@ -31,3 +31,10 @@
 3. **Two open author-decisions logged as `⚠️ unresolved-on-purpose`:** E65 (Sakura's date 5/5 vs Hana's proposed 8/14 forgery) and §11's 「first promise he breaks」 cut-or-pay-off.
 
 **Kevin is out: shower → torta ahogada → 100%.** 🥪 **Nothing is on fire. Nothing is waiting. Come back whenever.** ♥️💚🩷💜💛
+
+## 🛑 2026-08-30 · TWO FAILED DELIVERIES, ON THE RECORD (do not repeat)
+**Kevin asked for a Q&A and then rejected it twice: "useless," then "this is useless."**
+**The real reason, which I did not see the first time:** ❌ *both drafts were me handing him work he had already finished or was not ready to make.* ⚔️ He spent a day producing ~6,500 words of canon. Then I produced a **quiz** about his own decisions (draft 1), and a **"list of what to decide next"** (draft 2) — which is worse, because it's unpaid editorial labor wearing the mask of collaboration.
+🤓 **What Point C actually asked for was already stated in his own words:** *"give them a second thought so we can give our lovely OC a final 'makeover'"* + *"give MY own answers with a little star."* ⇒ **He wanted decisions, not questions.** The ⭐ was the point of the whole exercise; I just didn't realize he wanted me to *keep* them instead of offering them for review.
+**Standing correction: stop generating open questions. Decide. Deliver the v3 build with my answers locked in and reasoned — he can strike any line, and striking is a faster edit than answering.**
+*(`QA_28.md` and `QA_openloops.md` are both deprecated. Neither is deleted — same house rule: nothing gets hidden, the autopsy stays visible.)*
