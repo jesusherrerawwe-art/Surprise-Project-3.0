@@ -135,7 +135,7 @@ The camp-arc "couples who share a campfire get together" legend. **Note the stru
 **⚠️ FLAGGED DISAGREEMENTS (not resolved):** ch.32 in ep 12 (one source says 30–31 only); the TBS **Jan 10 vs Jan 11** dating; **co-character-designer 雅楽代** being dropped from many English credits; "Gagakuga" spelled **雅楽雅** in some listings — I cannot tell which reading is right. **Do not quote my ep-12 chapter range in a submission note without checking the manga's Vol. 4 table of contents.** 🤓
 
 ---
-> *File 1 of 3 · next: **S2 — "the correction," the cut ledger, and where the fans' twelve favourite chapters ended up.***
+> *File 1 of 3 · next: **S2 — "the correction," the cut ledger, and where the fans' twelve favourite chapters ended up.** *(Both files were subsequently corrected by* `section2_document2b_screentime_census.md`*)****
 > *(§8 was added in Round 1 of §2: the PT-BR / LatAm distribution record.)*
 
 ---

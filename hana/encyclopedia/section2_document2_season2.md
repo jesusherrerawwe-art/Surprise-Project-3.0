@@ -33,8 +33,8 @@
 | 3 | 七つのさよなら 第二章 | Part 2 | **Vol.6 ch.42–44** ⚠️ *(other source: 42–45)* | |
 | 4 | 七つのさよなら 第三章 | Part 3 | **ch.45–50** ⚠️ *(other: 46–50)* | |
 | 5 | 今日はお疲れ | Great Job Today | **Vol.7 ch.51–54** | |
-| 6 | 最後の試験 | The Last Exam | **ch.55–58** | **⚠️ = 一花/二乃/三玖の場合 — three IF-routes in 4 chapters** |
-| 7 | 攻略開始 | Strategy Begins | **ch.59 + Vol.8 ch.60–63** | **ch.59 = 二乃の場合 = the fandom's #1 chapter — given ONE episode entry** |
+| 6 | 最後の試験 | The Last Exam | **ch.55–58** | **⚠️ CORRECTED = 三玖/四葉/五月/二乃の場合 — four IF-routes in 4 chapters (NOT 一花's; see census §2)** |
+| 7 | 攻略開始 | Strategy Begins | **ch.59 + Vol.8 ch.60–63** | 🔥 **ch.59 = 「最後の試験が**一花**の場合①」 = the fandom's #1 chapter (6,854 votes) — ICHIKA'S branch, not Nino's. Given ONE episode entry, though its ② ran into ep.8 — the only branch the anime gave two.** |
 | 8 | スクランブルエッグ | Scramble Egg | **ch.63–68** ⚠️ *(other: 64–67)* | |
 | 9 | ようこそ3年1組 | Welcome to Class 3-1 | **ch.69–74** | **✂️ CUT: ch.72 「学級長の噂」, ch.73 「新川中島」** |
 | 10 | 五羽鶴の恩返し | Five Cranes of Gratitude | **ch.75–76, 78** | ✂️ **CUT: ch.77 「女の戦」**; ⚠️ other source claims ch.73 also here |
@@ -62,6 +62,8 @@
 | **39 / 40 / 41** | リビングルームの告白 | **✂️ never animated** | *"The Living Room Confession." Nino.* |
 
 **Adapted only by the OVA, years later: ch.38** (the pool episode — the *same* cut block, 勤労感謝ツアー), **ch.90–93**, **ch.14** (into S1's ep 8, reordered), **ch.111**.
+
+> ⚠️ **AMENDED by `section2_document2b_screentime_census.md`:** the cut count for S2 is **8 chapters (36–41, 72, 77), not the ~18 I implied in an earlier footer**, and the if-route row order below is wrong as printed. **Kodansha's own Vol.7 table of contents gives: 55 = 三玖の場合, 56 = 四葉の場合, 57 = 五月の場合, 58 = 二乃の場合, 59–60 = 一花の場合①②.** Read the census for the corrected ledger; this file keeps the error visible so the correction has a source.
 
 > ### 🤓 THE FINDING THAT MATTERS MOST IN ALL OF SECTION TWO
 > **The anime cut the Labor-Gratitude-Thanksgiving Tour — a *six-chapter block* (36–41) — and then, two and a half years later, made an OVA whose entire purpose was to come back and adapt chapter 38.**
@@ -95,6 +97,8 @@ The 2020 「ベストエピソード総選挙」 (89,191 votes; full data in Sec
 | 10 | 114 | 最後の祭りが**風太郎**の場合② | 2,426 | the film |
 
 **Score: of the twelve most-loved chapters in the franchise, the anime adapted 10, spent a *single episode slot* on 9 of them, and skipped #7 outright — and #3 had to wait three years for an OVA.**
+
+> ⚠️ **CORRECTION (E30a):** reading this table against Kodansha's Vol.7/Vol.12–13 tables of contents, **#1 (ch.59) is Ichika's branch and #8 (ch.60「攻略開始」) is its second half** — so **Ichika is the only sister whose if-route is split across two episodes, and she has the most if-chapters of anyone (4).** My first reading, "a non-winning sister's branch won the vote," survives but changes owner: **it's the eldest — the sister whose canon tragedy is that she *voluntarily* stopped competing.** See census §3.
 
 > ### 🤓 READ THE ASYMMETRY
 > **The thing fans loved and the thing the production prioritized were almost perfectly *un-correlated*.** The production was optimizing for **forward motion of the plot** (whom will he marry → answer). The fans were optimizing for **the best *scene*** — and nine of the top twelve scenes in the entire 122-chapter story are **branch, if-route, or private-intimacy material**, not plot.

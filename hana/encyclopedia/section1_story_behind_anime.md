@@ -7,7 +7,7 @@
 | § | Document | Subject | Status |
 |---|---|---|---|
 | 1 | `section1_story_behind_anime.md` | **The story behind the anime** — author, origins, serialization, adaptation history, the finale & its backlash, the ancillary machine | ✅ **COMPLETE (Rounds 1–3 of 3)** |
-| 2 | **3 files** → `section2_document1_season1.md` · `section2_document2_season2.md` · `section2_document3_movie.md` | Main chapters — **one document per season + one for the film** (Kevin's call), each fully mapped to manga material, with cut ledgers, disc sales, theme-song forensics, the popularity ledger and errata E18–E35 | ✅ **Rounds 0–1 of 3 written** · 🔄 **Round 2 = the per-sister screen-time census (the payload)** · 🔒 Round 3 = audit + fill-in OVA / 春夏秋冬 / film staff block |
+| 2 | **5 files** → `section2_document1_season1.md` · `section2_document2_season2.md` · **`section2_document2b_screentime_census.md`** · `section2_document3_movie.md` (+ errata ledger E18–E40) | Main chapters — **one document per season + one for the film** (Kevin's call), each fully mapped to manga material, with cut ledgers, disc sales, theme-song forensics, the popularity ledger and errata E18–E35 | ✅ **Rounds 1–2 of 3 written** (Round 2 = the screen-time census, filed as Doc 2b) · 🔄 Round 3 = final audit + the film's staff block + 春夏秋冬 / unadapted-OVA status · ⚠️ Round 2 **overturned one of this file's own findings** (E36) — patched in place |
 | 2′ | ~~`section2_main_chapters.md`~~ | *superseded by the three-file split above* | ➖ retired |
 | 3 | `section3_characters.md` | Main & secondary characters | 🔒 not started |
 | 4 | `section4_fun_facts.md` | Fun facts / trivia | 🔒 not started |
@@ -315,9 +315,10 @@ Read the question they asked the readership of a shōnen magazine: not "who's yo
 
 | Chapter | Title | Vol |
 |---|---|---|
-| **59** | **最後の試験が二乃の場合** (*"If the Last Exam Were Nino's Case"*) | 7 |
+| **59** | ~~最後の試験が二乃の場合~~ → 🔴 **CORRECTED: 59 = 最後の試験が**一花**の場合①** (6,854 votes) | 7 |
 | **56** | 最後の試験が**四葉**の場合 | 7 |
-| **58** | 最後の試験が**一花**の場合 | 7 |
+| **58** | ~~一花~~ → 🔴 **CORRECTED: 58 = 最後の試験が二乃の場合** | 7 |
+| *(new)* | **55 = 三玖の場合 · 57 = 五月の場合 · 60 = 一花の場合②** — verified against **講談社's own Vol.7 table of contents** | 7–8 |
 | **84 / 85 / 86** | シスターズウォー 七回戦 / 七回戦（裏） / エキシビションマッチ | 10 |
 | **99–122** | 日の出祭 → **最後の祭りが一花の場合②** (102) · **…二乃の場合②** (104) · **…三玖の場合②** (106) · **…四葉の場合②** (108) · **…五月の場合②③** (110, 111) · **…風太郎の場合①②** (113, 114) | 12–14 |
 | **119 / 120 / 121 / 122+1** | 五つ星ツアー / 五年前のとある日 / **五分の一の確率** / **五つ子ちゃんは秘密を五等分できない** | 14 / 14.5 |
@@ -354,10 +355,10 @@ Held **2020/05/27–06/10**, three months after the finale: **89,191 votes cast 
 | 10 | 114話「最後の祭りが風太郎の場合②」 | 2,426 |
 
 **Five readings, and they're all useful to you:** 🤓
-1. **The #1 chapter is Nino's branch, not the bride's.** A *non-winning* sister's if-route beat the entire main plot. **Readers vote for the most dramatically *satisfying* chapter, not the most canonically correct one.**
+1. **The #1 chapter is the eldest sister's branch, not the bride's.** ⚠️ **CORRECTED (see `section2_document2b_screentime_census.md` §3): ch.59 is 「最後の試験が**一花**の場合①」, not Nino's — I read the election *ballot*, which lists titles without their order, instead of a tankōbon table of contents.** The finding gets *better*, not weaker: **Ichika — the sister whose canon tragedy is that she was too mature to compete, the one who "strangles her own feelings" — owns the most-loved chapter of 122, and the only branch that needed two chapters.** *Readers vote for the most dramatically satisfying chapter, not the most canonically correct one; and they vote hardest for the love they had to notice on their own.* **That second half is now a load-bearing rule for your Jesús.** 🤓
 2. **The finale came 5th — and got fewer votes than chapters 59, 67, 90 and 111.** In an election run *after* the ending, **the public ranked four other chapters above it.** That is a measured, non-anecdotal verdict on the finale. 🤓
 3. **Volume 7 is absurdly strong** (59th at #1, 56 and 58 also in the top 60, 60 and 67 in the top 10) — i.e. **the "last exam" arc is the fan-favorite peak.** That's roughly chapters 50–65, the *mid*-story, not the end.
-4. **Ch. 67「スクランブルエッグ⑦」at #2 is the Nino-conflict-then-Kimutaro chapter** — the emotional core of the *least*-initially-likable sister. **Redemption arcs win elections.**
+4. **Ch. 67「スクランブルエッグ⑦」at #2** sits inside the 9-chapter スクランブルエッグ run (ch.60–68, ⚠️ census §5a: **that run is Nino's conflict spine, and it's why she has more *beats* than anyone while having only 3 if-chapters**) — the emotional core of the *least*-initially-likable sister. **Redemption arcs win elections.**
 5. **Ch. 21「おまじない」(#13) and Ch. 4「合計100点」(#14) and Ch. 1 (#20)** — early, quiet, small-moment chapters placed high. **This franchise's beloved material is *intimacy at low volume*, not spectacle.** 🤓 Noted for your prose register.
 
 **Character polling, for calibration (not for plot):** Netorabō's 2021 "俺の嫁" vote → **Miku 4,243 (25.2%) > Nino 3,443 > Ichika 3,277 > Itsuki 3,261 > Yotsuba 2,644.** [nlab](https://nlab.itmedia.co.jp/research/articles/194277/) **Miku won; the bride came last.** And a 2026 fan consensus post still describes it as **「三玖と二乃による二強構造」** (a Miku/Nino two-strong structure), Itsuki rising, with a genuinely good name for the bride's problem: **「勝者のパラドックス」** — *the winner's paradox: Yotsuba needs no one to campaign for her, so her support flatlines.* It also frames the split precisely: **三玖 = 恋人にしたい (want as a lover); 四葉 = 妻にしたい (want as a wife).** [otakumania](https://otakumania.jp/6134/)

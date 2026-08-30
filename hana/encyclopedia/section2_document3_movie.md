@@ -74,6 +74,8 @@ This is the single best craft fact in Section Two and I have never seen it in an
 
 Section One §4 established that the manga's ending backlash traces to **narration following Fuutarou's knowledge**, so Yotsuba's withheld love *structurally* could not be shown. **The film is the franchise's patch, and its method is legible in the credits.**
 
+⚠️ **Census note:** the film's own material (ch. 96–122) contains **the entire 最後の祭りが◯の場合 block — 11 chapters: 一花 101–102, 二乃 103–104, 三玖 105–106, 四葉 107–108, 五月 109–111, 五つ子 112, 風太郎 113–114** (Kodansha TOC, Vols.12–13). **Itsuki's is three chapters; everyone else's is two; and the ensemble chapter sits between the girls' and Fuutarou's. That is a *published* fairness contract with one deliberate break — see `section2_document2b_screentime_census.md` §2.**
+
 **Five unit directors** (原口浩 / 平田政良 / 木村寛 / 山本陽介 / 吉沢俊一) + Mefu, **six storyboard artists** including **佐藤卓哉**, three character designers' legacies in play, and **the same screenwriter as both seasons.**
 
 > ### 🤓 THE VERDICT
@@ -159,7 +161,7 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 
 ---
 
-## 7. ⚠️ ERRATA & OPEN ITEMS FOR §2 (all three files)
+## 7. ⚠️ ERRATA & OPEN ITEMS FOR §2 (all **five** files — including `section2_document2b_screentime_census.md`)
 
 | # | Item | Status |
 |---|---|---|
@@ -175,6 +177,11 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 | **E27** | **ja.wiki prints 映画 劇場アニメ 「全2話」 in its BD table.** | ⚠️ **almost certainly an infobox artifact** (a 136-min single film given an episode count of 2, likely mirroring 前編/後編 TV treatment). **Do not tell a judge "the movie is two episodes."** |
 | **E28** | **"Shaft" appearing next to the film on ja.wiki.** | ✅ **false** — that line belongs to the **∽** infobox. **Shaft = ∽ only.** |
 | **E29** | **A new "未映像化" OVA** + **春夏秋冬 anime adaptation** | ⚠️ **reported by asobigokoro (updated 2026-08) and ABEMA Times, which on 2026-05-05 said the title/date were still unknown.** **No studio, no date. Section One already flagged the 春夏秋冬 broadcast window; the OVA may be the same vehicle.** **I refuse to describe either as announced-and-dated.** |
+| **E36** | **「ch.59 = 最後の試験が二乃の場合」** — printed in Section One §3/§4 and in my §2 Doc2 table. | 🔴 **FALSE, corrected 2026-08-31.** Kodansha's Vol.7 TOC: **55 三玖 / 56 四葉 / 57 五月 / 58 二乃 / 59–60 一花①②.** Ch.59 (the 6,854-vote #1) is **Ichika's** branch. Cause: I read the alu.jp *ballot* (titles, no order) as if it were a contents page. **Authority for the fix: `section2_document2b_screentime_census.md` §2–3.** |
+| **E37** | "S2 skipped ~18 chapters." | 🔴 **8** (36–41, 72, 77) — stated in a chat handoff, never in a file, corrected in census §5b. |
+| **E38** | ch.88/90「私とある男子」= *Miku's storyline.* | ⚠️ **DISPUTED — deliberately unresolved.** Two mapping/summary sites say Miku; live fan reaction on 2019-06-05 calls ch.88 「四葉過去回」. H² **Needs the actual Vol.11. Do not state an owner.** |
+| **E39** | "the film compressed harder than S2." | 🔴 **Backwards.** The film is ≈15.8 ch/hr against S2's 3.8 ch/24-min-ep ⇒ **the film had a longer continuous container and got 32% *more* time per chapter.** Corrected in census §5b. |
+| **E40** | 春夏秋冬 Vol.1 dated 2025-05-16 by asobigokoro. | ✅ Kodansha: series opened **2025-01-17**; **Vol.3 = 2025-09-17, 320pp, ¥990** (ISBN 9784065406236). **Fourth blog-only date error on this property ⇒ standing rule now in force: any date without an ISBN or an official-domain URL nearby is treated as unverified.** |
 | **E31** | **The film's theatrical economics.** | ✅ **NEW (zh.wiki):** ¥390M opening weekend / 2nd place; **+91 screens on 07-29 (108→199)**; ¥1B in wk 3; **1M tickets at day 26**; **¥2B on the 9th weekend**, 5th JP animated film of 2022 to cross it; **global ≈ US$18.4M**; 🇹🇼 **NT$81.77M**, 🇭🇰 **HK$24.87M**. ⚠️ **Three different JP grosses now exist across sources — ¥20.5亿 (as of 2022-07-17), ¥22.4億 (LisAni/animatetimes, undated), and the zh figure implies ≈¥2.9亿+. They are not contradictory: they are snapshots.** **Always attach the "as of" when quoting one.** |
 | **E32** | **∽'s runtime.** | ⚠️ **es.wiki calls ∽ "de una hora de duración" (one hour) — vs ja.wiki/official 前編+後編 (2×~25min).** Both are true of different cuts (theatrical double-bill vs TV). ⚠️ **I cannot yet tell whether the theatrical version was a single continuous 50–60 min program.** Verify before repeating either. |
 | **E33** | **The film was NOT "animation quality" trouble-free.** | ⚠️ **Contradiction found across languages.** ja.wiki praises S2 「作画や演出が大きく改善されている」, and I have been carrying that forward — but **CN viewer reviews of the *film* (bangumi.tv) say: 「由于篇幅原因删减掉了一些单元回，还蛮可惜的…画面崩坏的情况还是有点多，只能保证部分名场面不崩坏，甚至有些名场面也都崩了」 and 「经费不足，勉强能看」.** **Same film, opposite quality verdicts, split by which wiki you read.** ⚠️ **UNRESOLVED. Do not tell Kevin "the film looked great."** Say instead: *it protected a few set pieces at the expense of consistency, and half the internet noticed.* |
