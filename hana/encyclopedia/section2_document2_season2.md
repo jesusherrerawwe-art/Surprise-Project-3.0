@@ -33,8 +33,8 @@
 | 3 | 七つのさよなら 第二章 | Part 2 | **Vol.6 ch.42–44** ⚠️ *(other source: 42–45)* | |
 | 4 | 七つのさよなら 第三章 | Part 3 | **ch.45–50** ⚠️ *(other: 46–50)* | |
 | 5 | 今日はお疲れ | Great Job Today | **Vol.7 ch.51–54** | |
-| 6 | 最後の試験 | The Last Exam | **ch.55–58** | **⚠️ CORRECTED = 三玖/四葉/五月/二乃の場合 — four IF-routes in 4 chapters (NOT 一花's; see census §2)** |
-| 7 | 攻略開始 | Strategy Begins | **ch.59 + Vol.8 ch.60–63** | 🔥 **ch.59 = 「最後の試験が**一花**の場合①」 = the fandom's #1 chapter (6,854 votes) — ICHIKA'S branch, not Nino's. Given ONE episode entry, though its ② ran into ep.8 — the only branch the anime gave two.** |
+| 6 | 最後の試験 | The Last Exam | **ch.55–58** | 🔒 **VERIFIED R3: four of the five IF-routes — 55 三玖 · 56 四葉 · 57 五月 · 58 一花.** The fifth (59, 二乃) is spent as the next episode's cold open |
+| 7 | 攻略開始 | Strategy Begins | **ch.59 + Vol.8 ch.60–63** | 🔥 **ch.59 = 「最後の試験が二乃の場合」 = the most-loved chapter in all 122 (6,854 votes) — and it was used as a *cold open*, sharing ep.7 with four chapters of the following arc.** The single scene the fandom crowns got the least dignified slot in the show |
 | 8 | スクランブルエッグ | Scramble Egg | **ch.63–68** ⚠️ *(other: 64–67)* | |
 | 9 | ようこそ3年1組 | Welcome to Class 3-1 | **ch.69–74** | **✂️ CUT: ch.72 「学級長の噂」, ch.73 「新川中島」** |
 | 10 | 五羽鶴の恩返し | Five Cranes of Gratitude | **ch.75–76, 78** | ✂️ **CUT: ch.77 「女の戦」**; ⚠️ other source claims ch.73 also here |
@@ -42,6 +42,7 @@
 | 12 | シスターズウォー 後半戦 | Sisters War, Second Half | **ch.83–86** ⚠️ *(one source writes "82–86", one leaves it "確認中")* | |
 
 **Coverage: Vol.5 → Vol.10, ch. 33–86.** **~46 chapters into 12 episodes ≈ 3.8 ch/ep — 46% faster than S1.**
+🔒 *Round-3 refinement of my own ep.6 row: the exam block is **five chapters (55–59) spread over two episodes** — ep.6 carries four of them, ep.7 opens on the fifth. The 3.8 ch/ep arithmetic above stands; the shape is what matters. **The season spends four-fifths of one episode on five perfectly equal branches, then gives the last of them away as someone else's cold open — and the audience voted that one first.** All five if-routes were adapted. ⚠️ *(This row is where my Round-2 "correction" did its damage: I had ep.6 = ch.55–58 with 58 = Nino and a phantom two-chapter Ichika branch. See census §7.)*
 
 > ### 🤓 WHY S2 FEELS DIFFERENT, IN ONE NUMBER
 > **S1: 2.6 chapters/episode. S2: 3.8.** The studio changed, the designer changed, **and the adaptation started running 46% faster.**
@@ -85,7 +86,7 @@ The 2020 「ベストエピソード総選挙」 (89,191 votes; full data in Sec
 
 | Rank | Ch. | Title | Votes | Where the anime put it |
 |---|---|---|---|---|
-| **1** | **59** | 最後の試験が**二乃**の場合 | **6,854** | **S2 ep.7 — ch.59 was ONE of four chapters in that episode.** Nino's *branch* got ¼ of an episode and won the election. |
+| **1** | **59** | 最後の試験が**二乃**の場合 | **6,854** | **S2 ep.7 — ch.59 was ONE of four chapters in that episode.** Nino's branch was ⅕ of the exam block and ¼ of its episode, and it still won the election. |
 | 2 | 67 | スクランブルエッグ⑦ (the rejection) | 6,533 | S2 ep.8 (ch.63–68) — one sixth of an episode |
 | 3 | 90 | 私とある男子② (*Miku*) | 4,950 | **✂️ never on TV. Only ever animated in ∽ — 2023, three years after the manga ended.** |
 | 4 | 111 | 最後の祭りが**五月**の場合③ | 4,829 | the film |
@@ -98,8 +99,9 @@ The 2020 「ベストエピソード総選挙」 (89,191 votes; full data in Sec
 
 **Score: of the twelve most-loved chapters in the franchise, the anime adapted 10, spent a *single episode slot* on 9 of them, and skipped #7 outright — and #3 had to wait three years for an OVA.**
 
-> ⚠️ **CORRECTION (E30a):** reading this table against Kodansha's Vol.7/Vol.12–13 tables of contents, **#1 (ch.59) is Ichika's branch and #8 (ch.60「攻略開始」) is its second half** — so **Ichika is the only sister whose if-route is split across two episodes, and she has the most if-chapters of anyone (4).** My first reading, "a non-winning sister's branch won the vote," survives but changes owner: **it's the eldest — the sister whose canon tragedy is that she *voluntarily* stopped competing.** See census §3.
-
+> 🔒 **ROUND-3 VERIFICATION (E41).** This row is now cross-checked against **four** independent contents lists — Kodansha's own partial Vol.7 TOC plus candygum, chill-middle-age and manga-games — and they agree: **55 三玖 · 56 四葉 · 57 五月 · 58 一花 · 59 二乃. One chapter each. Perfectly symmetric.** **ch.60「攻略開始」 is NOT a branch** and my "one branch spans two episodes" claim (which I pushed as a *correction* last round) is **dead — I was wrong twice before being right.**
+> **The surviving finding is the sharper one, and it is about *position*, not screen time:** the anime placed the franchise's most beloved scene **as the first four minutes of an episode that then spent twenty on a different arc.** It did that for a structural reason — ch.59's consequences (the confession heard by the wrong sister) are the *engine* of ch.60–68 — **so Nino's branch was load-bearing for someone else's arc and could not be given its own container.** 🤓
+> **Which hands you a rule I'd fight for: a chapter's *rank* in the reader's memory is set by what it *detonates*, not by how much page it owns.** You do not need to give your best sister the most chapters. **You need to give her the chapter that the next four cannot exist without — and then let it sit at the end of the run, not the middle.**
 > ### 🤓 READ THE ASYMMETRY
 > **The thing fans loved and the thing the production prioritized were almost perfectly *un-correlated*.** The production was optimizing for **forward motion of the plot** (whom will he marry → answer). The fans were optimizing for **the best *scene*** — and nine of the top twelve scenes in the entire 122-chapter story are **branch, if-route, or private-intimacy material**, not plot.
 > **Now hold that against your own plan.** You have 24 chapters: **4 spine + 20 branch (4 per sister)** = **83% of your runtime inside the branches.** *The fans' favorite configuration — the exact thing the anime couldn't afford.* **Your structure is not a stylistic choice, it's the correction the franchise spent four years and one OVA trying to make.** That's the pitch sentence for the Game Plan, and it's the reason I'm confident this can *win* rather than merely please.

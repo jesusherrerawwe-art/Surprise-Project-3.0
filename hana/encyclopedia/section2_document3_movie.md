@@ -25,6 +25,7 @@
 | **Box office** | **動員 1,700,000 / 興行収入 ¥2,240,000,000** [via LisAni](https://www.lisani.jp/0000228619/) · **implied avg ticket ¥1,318** — ⚠️ that's *below* the ¥1,500 standard ⇒ the gross includes a heavy share of **discount days + 入場者特典 giveaways**. Read as "they moved bodies cheaply on purpose." |
 | **BD/DVD** | **2022-12-21** · 特装版 PCXP-50919 · 通常BD PCXP-50920 · DVD PCBP-54597 (¥8,250) · **特装 insert = 「コミックス第0巻 フルカラー版」** = the pre-serialization one-shot in color |
 | **Sales** | **BD 44,476 → 49,025 · DVD 8,765 → 10,426 → combined ≈ 59,451** |
+| **Staff — verification status** | 🔒 **Round 3:** 監督 **神保昌登** and シリーズ構成 **大知慶一郎** now rest on two independent Japanese sources ⇒ **verified, no longer provisional.** Full block: **脚本 大知慶一郎 · キャラクターデザイン 勝又聖人＋潮月一也 · 音楽 中村巴奈重＋櫻井美油 · 音響監督 明川雄也 · 3DCG 相馬徹（graphinima） · 配給 TOHO.** ⚠️ *Recorded because two of my own Round-2 "corrections" to this block were the errors:* **the zh.wiki director 「金保直人」 exists in no Japanese source** (it is 神保昌登 mis-transcribed), **and the 58/59 chapter flip below lasted exactly one round.** 🤓 **Standing rule for this property: Japanese-primary beats translated-wiki, every time.** |
 
 ---
 
@@ -39,6 +40,8 @@ Per [asobigokoro](https://asobigokoro.work/Anime-Manga/gotoubun-no-hanayome/), [
 | 「リビングルームの告白」 etc. | 36–41 | ✂️ **still unadapted, even after everything** |
 
 **The film adapts ≈36 chapters (87–122) in 136 minutes ≈ 5.9 ch/hr — vs S2's 3.8 ch/ep.**
+
+⚠️ *Round-3 note on the 87–90 row above: I now read that block as **Yotsuba's** — census §4 closed it at ~85% confidence — and the **2026-05-02 announcement of a new OVA drawn from "episodes the anime has not yet adapted" lands on exactly that row** (see §6c). **Do not repeat "the film adapted everything" as a 2026 claim until the OVA has credits.** *
 ### 🤓 THE STRUCTURE, STATED EXACTLY
 1. **S2 ended at ch.86. The film began at ch.87. The "gap" was filled by *OVAs and specials*, not by a third season.** programming-cafe literally labels its next rows 「**第3期** 偶然のない夏休み」 — i.e. **at least one widely-read Japanese reference site treats the summer-trip material as a *third season* that was released as two short episodes instead of twelve.** ⚠️ *That is an individual editor's labeling, not Kodansha's, and I refuse to launder it into fact. What **is** verified: the material exists, the film covers it, ∽ re-covers part of it, and no "Season 3" was ever announced.*
 2. **∽ (2023) is a *TV* special that was released in *theaters first* (Jul 14 – Aug 4, 2023, 3 weeks) and on TV after** (TBS Sat 16:30, Sep 2 + Sep 9, 2023; BS11 Sep 10) — **the inverse of the film.** [ja.wiki](https://ja.wikipedia.org/wiki/五等分の花嫁)
@@ -161,6 +164,26 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 
 ---
 
+## 6c. 📅 **2026-05-02 — the property announced more of itself, and it lands on this file**
+
+**At 「五等分の花嫁 SPECIAL EVENT 2026」 in TOYOTA ARENA TOKYO, a 新作アニメプロジェクト was announced.** Carried the same day by MANTANWEB, Famitsu, Anime Anime, 東奥日報 and 映画.com, with the distributor posting it: [MANTANWEB](https://mantan-web.jp/article/20260502dog00m200017000a.html) · [Pony Canyon](https://news.ponycanyon.co.jp/2026-05-120655)
+
+1. **『五等分の花嫁【春夏秋冬】』 — the 完全後継小説 (原作・監修 春場ねぎ / 文 あさのハジメ) — will be adapted as a TV anime.** It runs from January of third year to December after graduation: *the year the manga skipped*. ⚠️ A **コミカライズ of the same novel is already in progress** (mgs Vol.1 2025-01-17, Vol.3 2025-09-17, 320pp ¥990, ISBN 9784065406236), **so there will shortly be two parallel adaptations of a text that is not the manga.**
+2. **A new OVA** built from 「これまでのアニメシリーズでは描かれなかった原作エピソード」 — the first new anime since ∗ (2024-09).
+
+### 🤓 Why this belongs in the *film* document and not in a footnote
+The film's whole argument in this file is: **the ending had to be released twice, and the disc is the text.** This announcement is the franchise doing **the same maneuver again, in the same order** — recover what the series skipped, deliver it short, sell it as an object. And the material it plausibly targets is precisely the two blocks this encyclopedia flagged:
+* **ch.36, 37, 39, 40, 41** — the living-room confessions, never animated in any release (4.9% of the manga);
+* **ch.87–90** — the bride's own past, which S2 skipped *and* ∽ skipped.
+⚠️ **Speculation, labeled as such: no source names chapters.** What is *not* speculation is the selection logic — a publisher reaching for "episodes not yet adapted," for its first new OVA in two years, is reaching for **the complaints.**
+
+### ⇒ For the book: one line and one fact
+**Fact:** the slot Jesús Fujioka occupies — the year nobody filmed — is being filled on television in the same window you are drafting into.
+**Line:** ⚠️ *which is not a reason to change your premise, it is a reason to be precise in your pitch.* **Jesús is not "the unadapted chapters." He is the one thing an OVA structurally cannot be: a first person narrator inside the information asymmetry** — the property's own diagnosis from §4 of this file, which a 24-minute special still cannot deliver because it must keep showing five girls to five viewers.
+**And date your notes from today.** "∗ is the last anime" was a true sentence for eighteen months and is now a stale one; that gap is the difference between a careful document and a trustworthy one. 😜
+
+---
+
 ## 7. ⚠️ ERRATA & OPEN ITEMS FOR §2 (all **five** files — including `section2_document2b_screentime_census.md`)
 
 | # | Item | Status |
@@ -187,6 +210,12 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 | **E33** | **The film was NOT "animation quality" trouble-free.** | ⚠️ **Contradiction found across languages.** ja.wiki praises S2 「作画や演出が大きく改善されている」, and I have been carrying that forward — but **CN viewer reviews of the *film* (bangumi.tv) say: 「由于篇幅原因删减掉了一些单元回，还蛮可惜的…画面崩坏的情况还是有点多，只能保证部分名场面不崩坏，甚至有些名场面也都崩了」 and 「经费不足，勉强能看」.** **Same film, opposite quality verdicts, split by which wiki you read.** ⚠️ **UNRESOLVED. Do not tell Kevin "the film looked great."** Say instead: *it protected a few set pieces at the expense of consistency, and half the internet noticed.* |
 | **E34** | **Chinese fandom vocabulary for this exact story shape.** | ✅ bangumi tags the film **党争** (*"faction/ship war"*, 567 uses) alongside 后宫 (1102). ⚠️ *Not an official tag and not a neutral word — but it is the label Chinese readers chose for a five-branch romance, and it is closer to Kevin's own "the reveal is the product" instinct than "harem" is.** |
 | **E35** | **⚠️ DO NOT CITE: 「Las Novias de la Suerte」** | Now searched across ES/PT in both directions. **It is not, and never was, a licensed Spanish title.** The three real ones are **Las Quintillizas** (Panini MX, Norma ES), **Somos Quintillizas** (Ivrea AR) and the untranslated English/Japanese. If Kevin's blurb uses "Novias de la Suerte," it will read to every Spanish-speaking fan in the room as *fan translation.* |
+| **E41** | §2 census + this file, Round 2: "**58 = 二乃, 59–60 = 一花の場合①②**, the only branch spanning two episodes" — published *as a correction* to my Round-1 "59 = 二乃". | 🔴 **The correction was the error — and Round 1 was only half right too.** 🔒 **VERIFIED: 55 三玖 · 56 四葉 · 57 五月 · 58 一花 · 59 二乃, one chapter each; ch.60「攻略開始」 opens Vol.8 and is not a branch.** Sources: Kodansha's own partial Vol.7 TOC **plus** candygum, chill-middle-age and manga-games, all four agreeing. **Full autopsy — including why a wrong middle version produces the best-sounding design advice — in `2b` §7.** |
+| **E42** | "Vol.7 ends at ch.58," read off a **truncated Kodansha search snippet**. | 🔴 The page listed 55–58 in the visible fragment; **"not shown" is not "not in the volume."** This one mis-read produced E41, propagated into four files, and briefly became *"the most elegant solution in the property."* ⇒ **never treat a clipped snippet as a complete list.** |
+| **E43** | "「おまじない」 = ch.14 / Ichika's" and "「6人の林間学校」 = ch.23, derived by arithmetic." | ✅ **Kodansha's own Vol.3 目次 settles both on one page** ([0000053318](https://kodansha.co.jp/comic/products/0000053318)): 積み上げたもの · いじっぱり · 夜の勉強会 · 嘘つき嘘たろう · 焦りのデスロード · 中間試験 · おまじない · 結びの伝説 · 6人の林間学校 ⇒ **おまじない = 20** (7th of nine), **6人の林間学校 = Vol.3's last chapter**, so **Vol.3 = ch.14–22 and the Vol.3/4 seam closes that way**. ⚠️ **The finding that outranks both: these TOCs print no chapter numbers at all.** Every "ch.N" next to a title in this encyclopedia was *counted by me*. |
+| **E44** | implied ch.88/90 belong to Miku (alu.jp + two mapping sites). | 🔒 **Closed as Yotsuba's.** 87/89「私と姉妹」 alternate with 88/90「私とある男子」, so one narrator owns all four and the other four sisters *are* the 姉妹; the week ch.88 published, reaction threads called it 「四葉過去回」. **⚠️ ~85% confidence — inferred from publisher titles, not from a page read.** If you get Vol.11 and it's Miku, that is a real finding and it goes in this row. |
+| **E45** | "OVA / 春夏秋冬 status pending verification." | ✅ **Settled, and it changes this file: on 2026-05-02 at TOYOTA ARENA TOKYO the franchise announced 春夏秋冬 as a TV anime, plus a new OVA of not-yet-adapted original episodes.** ⚠️ Consequence: **"∗ is the last anime" and "ch.36–41 and 87–89 will never be animated" are both retired as of today** — see §6c. ⚠️ *Housekeeping: `hana/HANA_BRIEFING_2026-08-30.md` still carries an unverified "Bibury / Crunchyroll" line about 春夏秋冬. Strike it or source it before anything from that briefing reaches the pitch.* |
+| **E46** | "the film's staff block is provisional." | ✅ **神保昌登** (dir.) and **大知慶一郎** (series comp) confirmed by two independent Japanese sources ⇒ promoted to verified. Recorded so the method outlives the result: my Round-2 attempt to "correct" the director to the zh.wiki spelling 「金保直人」 was itself the error — that name appears in no Japanese source. |
 | **E30** | Manga access, Jesús summary, LatAm terminology sheet | ⚠️ **still open from CASE_005 intake — not re-asking; logged so §3 can flag what's blocked.** I still can't do a *primary-source* chapter-to-episode audit without the tankōbon TOCs (I have Kodansha's Vol.14 TOC and used it to fix the off-by-one). |
 
 ---

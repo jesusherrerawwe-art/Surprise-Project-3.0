@@ -315,10 +315,12 @@ Read the question they asked the readership of a shōnen magazine: not "who's yo
 
 | Chapter | Title | Vol |
 |---|---|---|
-| **59** | ~~最後の試験が二乃の場合~~ → 🔴 **CORRECTED: 59 = 最後の試験が**一花**の場合①** (6,854 votes) | 7 |
+| **55** | 最後の試験が**三玖**の場合 | 7 |
 | **56** | 最後の試験が**四葉**の場合 | 7 |
-| **58** | ~~一花~~ → 🔴 **CORRECTED: 58 = 最後の試験が二乃の場合** | 7 |
-| *(new)* | **55 = 三玖の場合 · 57 = 五月の場合 · 60 = 一花の場合②** — verified against **講談社's own Vol.7 table of contents** | 7–8 |
+| **57** | 最後の試験が**五月**の場合 | 7 |
+| **58** | 最後の試験が**一花**の場合 | 7 |
+| **59** | **最後の試験が二乃の場合** — the fandom's #1 of all 122 | 7 |
+| 🔒 | **VERIFIED, ROUND 3 — and note this line is a *reverted* correction of a reverted correction.** A mid-draft "fix" of mine wrongly reassigned 58/59 to Ichika. Three independent contents lists (candygum 2021-12-24 · chill-middle-age 2020-06-03 · manga-games vol.7) **plus** Kodansha's own partial Vol.7 TOC agree on the order above, and **ch.60「攻略開始」 opens Vol.8 — it is NOT part of any branch.** So the device is: **exactly one chapter per sister, five chapters, zero asymmetry** — and the exam arc's only "unequal" act is *ordering.* | — |
 | **84 / 85 / 86** | シスターズウォー 七回戦 / 七回戦（裏） / エキシビションマッチ | 10 |
 | **99–122** | 日の出祭 → **最後の祭りが一花の場合②** (102) · **…二乃の場合②** (104) · **…三玖の場合②** (106) · **…四葉の場合②** (108) · **…五月の場合②③** (110, 111) · **…風太郎の場合①②** (113, 114) | 12–14 |
 | **119 / 120 / 121 / 122+1** | 五つ星ツアー / 五年前のとある日 / **五分の一の確率** / **五つ子ちゃんは秘密を五等分できない** | 14 / 14.5 |
@@ -355,7 +357,8 @@ Held **2020/05/27–06/10**, three months after the finale: **89,191 votes cast 
 | 10 | 114話「最後の祭りが風太郎の場合②」 | 2,426 |
 
 **Five readings, and they're all useful to you:** 🤓
-1. **The #1 chapter is the eldest sister's branch, not the bride's.** ⚠️ **CORRECTED (see `section2_document2b_screentime_census.md` §3): ch.59 is 「最後の試験が**一花**の場合①」, not Nino's — I read the election *ballot*, which lists titles without their order, instead of a tankōbon table of contents.** The finding gets *better*, not weaker: **Ichika — the sister whose canon tragedy is that she was too mature to compete, the one who "strangles her own feelings" — owns the most-loved chapter of 122, and the only branch that needed two chapters.** *Readers vote for the most dramatically satisfying chapter, not the most canonically correct one; and they vote hardest for the love they had to notice on their own.* **That second half is now a load-bearing rule for your Jesús.** 🤓
+1. **The #1 chapter is Nino's branch, not the bride's — 6,854 votes, 1.44× the finale's 4,762.** A *non-winning* sister's if-route won the entire election. **Readers vote for the most dramatically satisfying chapter, not the most canonically correct one.**
+   ⚠️ *Round-3 disclosure:* I "corrected" this to Ichika last round and **my correction was itself wrong** (full autopsy in `section2_document2b_screentime_census.md` §7). What survives is better than either version: **58 = 一花の場合 · 59 = 二乃の場合, and Nino's is the LAST of the five and the only one whose consequences run past its own final page into Vol.8.** *The branch placed last, after four quieter ones, is the one that detonates.* 🤓
 2. **The finale came 5th — and got fewer votes than chapters 59, 67, 90 and 111.** In an election run *after* the ending, **the public ranked four other chapters above it.** That is a measured, non-anecdotal verdict on the finale. 🤓
 3. **Volume 7 is absurdly strong** (59th at #1, 56 and 58 also in the top 60, 60 and 67 in the top 10) — i.e. **the "last exam" arc is the fan-favorite peak.** That's roughly chapters 50–65, the *mid*-story, not the end.
 4. **Ch. 67「スクランブルエッグ⑦」at #2** sits inside the 9-chapter スクランブルエッグ run (ch.60–68, ⚠️ census §5a: **that run is Nino's conflict spine, and it's why she has more *beats* than anyone while having only 3 if-chapters**) — the emotional core of the *least*-initially-likable sister. **Redemption arcs win elections.**
@@ -697,12 +700,15 @@ I flagged this in Round 2 as **⚠️ UNVERIFIED — do not build on this yet.**
 
 ## ▶️ NEXT UP: ~~Section Two~~ → **Section Three: characters**
 
-**✅ Section Two is now FILED as three documents** (Kevin's re-scope: a file per season + one for the movie): `section2_document1_season1.md`, `section2_document2_season2.md`, `section2_document3_movie.md`.
+**✅ Section Two is CLOSED — three documents + one census, through **Round 3** (Kevin's re-scope: a file per season + one for the movie):** `section2_document1_season1.md`, `section2_document2_season2.md`, `section2_document3_movie.md`, plus the payload file `section2_document2b_screentime_census.md`.
 
 **Two numbers from §2 retroactively correct this document — recorded here so the encyclopedia stays a single truth:**
 1. **⚠️ E18 (fixes §6 of this file):** the 「≈15,834 best disc」 figure is **∽'s BD+DVD combined (11,808 + 4,026)**, *not* a special outselling a season. **S1 ≈ 32,765 discs / S2 ≈ 31,779 / film ≈ 59,451.** The pattern is not "event beats series" — it's **"the final, scarcest, single-release product per era wins, and anything released after the question was answered collapses (∗ ≈ 5,583)."**
 2. **Chapter coverage, corrected:** S1 = ch. **1–32** (ep.6 uses 13 + 15–17, ep.8 = 21–22 + **ch.14 moved back**, ep.12 = 30–32). S2 = ch. **33–86** — *not* "~33–83" as I wrote above. **Chapters never animated in ANY release, after everything: 8, 36, 37, 39, 40, 41 — exactly six of 122.** (My "~30 never animated before ∽" was right about the *shape* and wrong about the count: S2 skipped 18, of which ∽ reclaimed only 38.)
 3. **⚠️ My own §4 line "the finale beat ch.37 fourfold"** — checked: **finale 4,762 vs ch.37 3,528 = 1.35×, not 4×.** The 4× figure belongs to **#1 (59, 6,854) vs the finale.** Corrected in place; §2 file 2 §3b carries the full ledger.
+
+4. 🔴⚠️ **E41 — and this one is worth reading before you cite anything in this encyclopedia, including this file.** In Round 2 I "corrected" §4's exam table to *58 = 二乃 · 59–60 = 一花①②* off a single truncated Kodansha snippet, propagated it into four files, and built a design rule on it. **Round 3 verified the true order — 55 三玖 · 56 四葉 · 57 五月 · 58 一花 · 59 二乃, one chapter per sister, and ch.60 opens Vol.8 as 「攻略開始」, not a branch — and reverted my "correction."** Consequences now standing across all five files: the if-route ledger is **19 of 122 = 15.6%** (was 17/13.9%), per sister **Ichika 3 · Nino 3 · Miku 3 · Yotsuba 3 · Itsuki 4**, and the exam block is **perfectly symmetric**. The method lesson is filed at `2b` §7 (a correction needs a higher bar than a claim; a publisher TOC prints no chapter numbers, so every "ch.N" here was counted).
+5. ✅ **E45 — the pending item is settled:** on **2026-05-02**, at 「五等分の花嫁 SPECIAL EVENT 2026」 in TOYOTA ARENA TOKYO, the franchise announced **a TV anime of 『五等分の花嫁【春夏秋冬】』** (the 完全後継小説, 春場ねぎ 完全監修 / 文 あさのハジメ) **and a new OVA of "episodes the anime series has not yet depicted."** ⚠️ ⇒ strike, everywhere: *"∗ (2024) is the last anime,"* *"the confessions will never be animated,"* and the **unverified "Bibury / Crunchyroll" line in `hana/HANA_BRIEFING_2026-08-30.md`**. Full write-up: `2` file 3 §6c.
 
 **And the finding that Section Three has to answer:** nine of the twelve most-voted chapters in the franchise are *branch / if-route / private-intimacy* material, and the anime gave nine of them a **single episode slot** (or none). **Character writing was where the value lived and where the adaptation was starved.** Which is exactly where your 24 chapters are strongest by construction. 🤓
 
