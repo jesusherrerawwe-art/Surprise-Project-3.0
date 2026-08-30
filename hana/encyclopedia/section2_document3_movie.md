@@ -109,6 +109,7 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 |---|---|
 | **MX theatrical** | **Feb 23, 2023**, distributed by **Crunchyroll + Sony Pictures Entertainment**, in **subtitled AND doblaje latino** [cinepremiere](https://cinepremiere.com.mx/the-quintessential-quintuplets-pelicula-estreno-trailer-latinoamerica.html) · [geekzilla](https://geekzilla.tech/the-quintessential-quintuplets-movie-llegara-a-los-cines-mexicanos/) |
 | **Then** | Chile and Perú "próximamente"; a **Spanish-language trailer was cut before release** [animemaniaco](https://www.animemaniaco.com/2023/02/the-quintessential-quintuplets-movie-espanol-latino.html) ⚠️ *fan blog, single-sourced dates* |
+| **Spanish title, per market** | 🇪🇸🇲🇽 **Las quintillizas** / 🇦🇷 **Somos quintillizas** / film = **Go-Tōbun no Hanayome: La película** [es.wiki](https://es.wikipedia.org/wiki/Go-T%C5%8Dbun_no_Hanayome) — 🔥 **the word 花嫁/bride exists in none of them; see §5 §1.2 for why that is the most important localization fact in this encyclopedia.** |
 | **Quote of record** | **Mitchel Berger, SVP Global Commerce, Crunchyroll:** *"Estamos encantados de llevar la conclusión de la historia a las audiencias que esperan ansiosamente descubrir cuál de las cinco hermanas captura el corazón de Futaro."* |
 | **Spain** | limited theatrical Oct 2022; **encore screenings Jan 13–14, 2023** at **Kinépolis FULL HD Barcelona + Madrid Ciudad de la Imagen** only — ⚠️ *espinof, "salas muy limitaditas." A property that fills 1.7M seats in Aichi will give you two screens in Cataluña.* |
 | **Brazil** | **The film was dubbed** — *The Quintessential Quintuplets: O Filme*, **2023 BR**, ⚠️ **dublapédia (fan wiki, cite with care)** |
@@ -153,6 +154,7 @@ The film's 特装版 ships with **「コミックス第0巻 フルカラー版�
 | 2023-03-28 🇩🇪 · **04-27 Crunchyroll global streaming** · 06-01 JP subscription · 07-21 🇧🇷 theatrical | |
 | 2023-01-13→14 | 🇪🇸 **encore, 2 screens** (Kinépolis BCN Full HD + Madrid Ciudad de la Imagen) |
 | 2023-04-27 | 🇺🇸🇱🇦🇪🇺🇦🇫🇴🇨🇳🇷🇺 **Crunchyroll streaming** · 2024-01-02 NA BD |
+| **LatAm dub cast (film)** | 🔒 [es.wiki's own  Reparto table](https://es.wikipedia.org/wiki/Go-T%C5%8Dbun_no_Hanayome:_La_pel%C3%ADcula): **風太郎=Manuel Campuzano · 一花=Lupita Leal · 二乃=Stephanie Filigrana · 三玖=Marisol Hamed · 四葉=Erika Langarica · 五月=⚠️Jocelyn Robles · れな=「Rena」/Xóchitl Ugarte · 祖父=「Mudō」/Jiro Saitō** — *the first complete LATAM credit block I have found for this property, and it is the raw material for §5 §6.1.* **⚠️ Two flags, both handled in §5: (a) 五月's LATAM voice is listed as a male actor (E62, unverified outside this table); (b) 「Mudō」 appears as a name where my JA notes have no name (E61).** |
 
 > ### 🤓 THE FACT THAT SHOULD CHANGE HOW YOU THINK AN "EVENT RELEASE" WORKS
 > **In Japan the film was rentable online on 2022-10-21 — four full months before México ever saw it in a theater.**

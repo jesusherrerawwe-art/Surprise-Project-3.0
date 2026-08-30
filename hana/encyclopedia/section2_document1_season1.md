@@ -59,7 +59,7 @@ Compiled from [programming-cafe](https://programming-cafe.com/amazon/primevideo/
 | 9 | 結びの伝説 1日目 | Legend of Fate, Day 1 | **ch.22–23 + Vol.4 ch.24** | 03-07 | |
 | 10 | 結びの伝説 2日目 | Legend of Fate, Day 2 | **ch.25–27** | 03-14 | |
 | 11 | 結びの伝説 3日目 | Legend of Fate, Day 3 | **ch.28–29** | 03-21 | **🔥 the Shaft episode** |
-| 12 | 結びの伝説 2000日目 | Legend of Fate, Day 2000 | **ch.30–32** ⚠️ *(one source says 30–31)* | 03-28 | season finale |
+| 12 | 結びの伝説 2000日目 | Legend of Fate, Day 2000 | **ch.30–32** ⚠️ *(one source says 30–31)* | 03-28 | season finale · **🔥 §5 §5.1: this is the arc's FIFTH day, and 2000 days = 5.48 yrs vs the text's 五年前 ⇒ the title rounds up ~175 days on purpose** |
 
 **Coverage: Vol.1 → Vol.4, ch. 1–32 (⚠️ the fate of ch.32 is the one open discrepancy between my two sources). Chapters skipped: 13 → 14 (moved), 33+ (→S2). Net: roughly 31–32 chapters in 12 episodes ≈ 2.6 ch/ep — a *slow*, patient adaptation.**
 

@@ -83,6 +83,7 @@
 
 ## 3b. 🔥 THE POPULARITY LEDGER — the whole top 12 of the official vote, mapped onto what the anime *did*
 The 2020 「ベストエピソード総選挙」 (89,191 votes; full data in Section One §4) cross-referenced against my S1/S2/film chapter map. **This is the single most useful table in Section Two.**
+> **⚠️ DO NOT CONFLATE THE TWO VOTES — settled 2026-08-30, and §3 §2.1 + §4 §6 hold both ledgers:** this table is the **2020 *episode* election** (best chapter, 89,191 votes); the **2018 *character* poll** (「人気投票」, 週マガジン) is a different survey with an entirely different answer set — 🔒 **三玖 2,393 · 四葉 1,403 · 五月 1,235 · 一花 1,170 · 二乃 1,003 · 上杉風太郎 81 · 前田 68**, in which **the protagonist finished 6th of 7 and the owner of this table's #1 chapter finished last of the five.** ⚠️ *One ITmedia reader poll has been relabeled "official" by content farms — see §3 E54.* 🔥 **Structural note for §5 Rule 14, added in Round 3 of this encyclopedia: the four "結びの伝説" episodes are Day 1, Day 2, Day 3, Day **2000** — the arc's own title scheme skips a day and then jumps to a decimal number. If your 24 chapters have an arc, do the skip; if you want Day 4, §5's 1日目–3日目 + 2000日目 is already a validated five-part skeleton (four named days + a broken fifth).**
 
 | Rank | Ch. | Title | Votes | Where the anime put it |
 |---|---|---|---|---|
