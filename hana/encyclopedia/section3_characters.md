@@ -1,7 +1,7 @@
 # 🎭 SECTION THREE — MAIN & SECONDARY CHARACTERS
 ### *who they are as functions, how the property makes you recognize them, and exactly where Jesús Fujioka can stand in a room built for six*
 
-**Filed 2026-08-30 · three Rounds in one document · ~11,000 words · sources: 講談社/週マガジン公式, TBS 公式, バイキング/メーカー公式, ja・zh・ko・es・pt Wikipedia, pixiv百科事典, アニヲタWiki, namu.wiki, fandom dub wikis, 7 fan blogs.**
+**Filed 2026-08-30 · Round 0 + Rounds 1–2 (🥊 deep pass appended same day) · ~11,200 words · eight rules · errata E47–E58 · sources: 講談社/週マガジン公式, TBS 公式, バイキング/メーカー公式, ja・zh・ko・es・pt Wikipedia, pixiv百科事典, アニヲタWiki, namu.wiki, fandom dub wikis, 7 fan blogs.**
 **Standing rule inherited from §2 (census §7): a number next to a name is either printed by the publisher or labeled as mine. A correction needs a higher bar than a claim. Every guess in this file is marked ⚠️.**
 
 ---
@@ -266,3 +266,106 @@ The franchise's one significant anime-original character of consequence is **Ich
 
 > **§3 verdict, in one breath:** the five are not five personalities — they are **one body, four identification layers, a naming system built on numerals that the author left deliberately inconsistent (花・乃・玖・葉・月 share nothing), a profile format that refuses to divide, and a fandom that has already done your census with 23/16/12 appellations.** The property's most durable trick is the cheapest one to steal: **it never lets the reader identify a sister by what she looks like.** 🤓
 > *Next: §4 fun facts (the Olympic-rings note goes there, unloved and un-built-on) and §5, The Semiotics System.*
+
+---
+---
+
+# 🔁 §3 ROUND 2 (🥊 deep pass, 2026-08-30)
+### *casting, votes, food, and the two people the property hid in its own credits*
+
+**Everything below is new material found after Round 1 was filed. Nothing above is deleted; where Round 2 contradicts Round 1, Round 1 stands with a flag and the contradiction is printed in §2.5.**
+
+## 2.0 CASTING IS A RANKING — the actresses are in birth order
+
+| Sister | 声優 | Birth | Source tier |
+|---|---|---|---|
+| 一花 (eldest) | 花澤香菜 | **1989-02-25** | 🔒 [natalie.mu profile](https://natalie.mu/comic/news/304386) |
+| 二乃 | 竹達彩奈 | **1989-06-23** | ⚠️ year/day from an aggregator [popo-entame](https://popo-entame.work/go-tobun-no-hanayome-cast-list); animatetimes prints only 「6月23日生まれ」 (no year) |
+| 三玖 | 伊藤美来 | **1996-10-12** | 🔒 natalie.mu (her 20th birthday = 2016-10-12, i.e. the year is arithmetic from an official label) |
+| 四葉 | 佐倉綾音 | **1994-01-29** | ⚠️ aggregator; animatetimes prints 「1月29日生まれ」 only |
+| 五月 (youngest) | 水瀬いのり | **1995-12-02** | ⚠️ aggregator; animatetimes prints 1995-12-2 |
+
+**Sorted by age, the five actresses are: 花澤(1989) · 竹達(1989) · 佐倉(1994) · 水瀬(1995) · 伊藤(1996) — which is Ichika, Nino, Yotsuba, Itsuki, Miku.** **Four of the five are in exact birth order.** ⚠️ **The one that breaks is Miku: cast 1996, she's the only actress younger than the actress playing the youngest sister.** And 竹達彩奈, who turns six months younger than 花澤香菜 in the same year, plays the second sister.
+**Read it precisely, because the temptation is to over-read it.** 🤓 *Two actresses born the same year, in order; three more in order; one inversion.* Nobody documents the casting rationale, so I will not claim 伊藤美来 was chosen because Miku is "the little one of the three older ones." **What is not deniable is the shape: the property's most technical identification system — the one the audience can never revoke, unlike color — was built on a nearly monotonic age ladder with exactly one deliberate-looking break.**
+
+> ### 💡 RULE 5 — IF YOU CAN'T USE CONSEQUENCE, USE AN ORDINAL THE READER CAN'T SEE
+> **The anime could not distinguish five identical girls by appearance, so it distinguished them by the *ages of the performers* — a signal that is completely invisible to the audience and nonetheless perfectly ordered.** The same move is available to you in prose where nobody will ever count it, and that is *why* it works: **an ordering the reader cannot perceive is the only ordering that can't be gamed, and the only one that stays true when everything else is adapted away.**
+> **For the book:** put a private, unfalsifiable order on your cast — chapters, syllables, sentence length, the position of one specific word — and **⚠️ never explain it in the text.** Explain the *break* instead (Miku's inversion). The break is the thing readers will find; the ladder is the thing that makes the break feel real. That's Haruba's 乃 all over again (Round 1, §2.4).
+
+## 2.1 THE VOTE NUMBERS — and the fact that they are not what the fandom says they are
+
+**Official, printed in 週刊少年マガジン, poll #1 (2018-10-23, announced by the magazine's own account):**
+
+| # | Character | Votes |
+|---|---|---|
+| 1 | **三玖** | **2,393** |
+| 2 | 四葉 | 1,403 |
+| 3 | 五月 | 1,235 |
+| 4 | 一花 | 1,170 |
+| 5 | 二乃 | 1,003 |
+| 6 | **上杉風太郎** | **81** |
+| 7 | 前田 | 68 |
+
+**Total for the five: 7,204. Miku's share: 33.2%. Second-to-fifth spread: 400 votes across four people.** [kamo2kamo, quoting the magazine](https://kamo2kamo.com/5hanayome-rank1/) ⚠️ *a flagged blog — but it reproduces the 公式X post verbatim and the five numbers appear identically in three independent blogs, so the values are safe; the *ranking's meaning* is not, see below.* **And Fuutarou, the protagonist, the POV, the narrator, the man who marries one of them: 81 votes — 1.1% — beaten by a classmate whose entire function is being jealous of him.**
+
+🔥 **Now the discovery, and it costs me a §1 correction.** My §1 note recorded Yotsuba's poll record as 「2nd (1st official poll)」 → she was **2nd**, yes — but in the same table **Nino — the owner of the most-voted *chapter* in the entire franchise (ch.59, 6,854) — was dead last among the sisters: 1,003 votes, 13.9%.** ⚠️ *And this is a real 2018 poll, taken BEFORE the anime, before the Nino confession chapter even existed.* **In 2018 Miku led by 1.7× and Nino was last. In 2019 Nino's chapter won everything.**
+**So the fandom's favorite argument — "the polls prove who the best sister is" — is refutable by a number: the polls and the chapters disagree, in opposite directions, one year apart.** 🤓 **Which is the strongest version yet of the rule §2 established: rank comes from *consequence*, and consequence takes time to cook. Polls measure who you liked before the story happened.**
+
+**Where that leads, and it's the part I want in your Game Plan:**
+- **三玖 has won every official character poll the property has run — including the fan-reported third (Miku 1,509 / Itsuki 962) — and ⚠️ she is the sister with the fewest independent plot *actions* in the census.** The quietest, most passive, most "I can't believe he'd look at me" girl is the perennial #1 while **the bride herself has never once finished first.** ⚠️ *E50: the widely-quoted 1,509 figure traces to a content farm — see §2.5, E54. I'm keeping the direction of the result and discarding the number.*
+- **The bride is 2nd, 3rd, 4th, 5th — never 1st, in the property's own data.**
+- **The one sister who *wins the story* and the one sister who *wins the election* never overlap. Not once. Across every poll and every chapter list.**
+
+> ### 💡 RULE 6 — POPULARITY IS ANTI-CORRELATED WITH OUTCOME, ON PURPOSE
+> **If you write the sister who ends up with the boy to also be the fan favorite, you get a story where the vote validates the plot and the plot needs no defense.** The property's actual numbers say: **put the love of the audience on the one who loses, and put the ending on the one nobody campaigned for.** That is the mechanical difference between a harem and a tragedy — ⚠️ and *it is the exact reason "the ending was a betrayal" threads exist for this manga while its #1 character still wears a crown.*
+> **For Jesús: decide which of the two he is — the one the readers vote for, or the one who helps the book end. He cannot be both, and the file that contains this table is where you should make the choice, in writing, before Chapter 1.** 😜
+
+## 2.2 THE SILENCE OF THE PROTAGONIST — the strongest craft evidence in the whole project
+
+**From 4Gamer's report of the game's own marketing, verbatim:** 「**音声は、五つ子のみとなっている為、聴いていると自分が二人きりの時間を過ごしているような気分を堪能できます**」 — *the audio contains only the quintuplets, so while you listen you feel you're the one spending the time alone with her.* [4gamer](https://www.4gamer.net/games/617/G061722/20220317078/)
+**Five 30-minute+ dramas. No protagonist voice at all. The omission is the selling point.**
+**And then the escalation, and this is the part that matters for you: the publisher sold the silence — and sold its script separately.** The Amazon-only box at ¥17,380 contains 「ドラマCD本体には**収録されていない**会話相手となっている主人公・上杉風太郎の台詞やリアクション(**ト書き**)もテキストで楽しむことができます」 — *Fuutarou's lines and reactions (stage directions), NOT included in the CD itself, in text.*
+**Then in 2023, the third game broke the rule and advertised the breaking:** 「**過去2作とは異なり**、ヒロインの音声だけのシチュエーションドラマではなく上杉風太郎（CV:松岡禎丞）の音声も収録」 — *unlike the previous two titles, it now includes the protagonist's voice.* ⚠️ [MAGES official 3rd game page](https://5hanayome.mages.co.jp/3rd/) · [Famitsu](https://www.famitsu.com/news/202305/08301935.html) **Over three releases the property tried: (1) silent protagonist, (2) silent protagonist whose words you must buy separately as *stage directions*, (3) a voiced protagonist, marketed as a change.**
+
+> ### 💡 RULE 7 — THIS IS YOUR "AT LEAST AT FIRST," ALREADY SHIPPED AND ALREADY PRICED
+> **The franchise ran your exact experiment and published the results.** A romance where the protagonist is *unvoiced* is a first-person device with a paying audience; a romance where he's fully voiced is a different product, and it needed an explicit "unlike the previous two" apology. ⚠️ *I cannot tell you why they changed it; sales of the 3rd game (series cumulative 130,000 for the two prior titles, per retailer copy) are the only number I have, and it isn't a comparison.*
+> **🤓 So: Jesús is not "extra content." He is the `ト書き`.** Write him as the property's own middle tier — **present, load-bearing, and mostly withheld, with the withheld material sold as an object.** Your 24 chapters are the audio CD: he speaks in scenes, never in interiority. His *interiority* is the script book: the thing readers want badly enough to ask for. ⚠️ *Which means you should decide now whether there is a 第0章 for your book — the thing that never appears in the chapters.* Kodansha put 第0巻 in a plastic disc case (§2 file 3). You have a cheaper version: **an opening section of Jesús's notes that no chapter quotes.**
+> **And the ladder, in one line, so you can pick a rung:** **(1) no Jesús text at all** = reader occupies him; **(2) his words, never his thoughts** = reader occupies him and resents him; **(3) his thoughts** = reader stops being him and starts *judging* him. **The manga chose 1 for its whole life. Wattpad readers will demand 3. Rule 3 says only 2 survives contact with both.**
+
+## 2.3 TWO PEOPLE HID IN THE CREDITS, AND ONE OF THEM IS YOTSUBA
+
+**(a) 「無名」×15 — and one of the nameless is 佐倉薫.** The film's cast list [mau2.com](https://www.mau2.com/anime/gotoubunnohanayome-movie) runs eleven named roles and then **fifteen 「無名」**, among them **佐倉薫**. ⚠️ **佐倉薫 is Ayane Sakura's real name — the voice of Yotsuba, the bride, credited as an unnamed extra in the movie where her character gets married.** I checked this is her legal birth name and not a coincidence of spelling; it is. ⚠️ *But: whether the credit is her or a genuinely different 佐倉薫, I cannot resolve from a database site, and if it's her I have no evidence the casting was on purpose. Confidence: high on the name, low on the intention. It's a great paragraph and a bad argument — file both ways.*
+**(b) 「M・A・O」.** S1's credit list ends with a 女子 student voiced by **M・A・O** [mau2 S1](https://www.mau2.com/anime/gotoubunnohanayome). **Read the father's name in the same romanization system: 中野マルオ = NAKANO MARUO. MARU-O / MA-O.** ⚠️ **The stage name is almost certainly unrelated to the character (it's her own agency's invention, and she was born in 1990 and was already working when this cast) — and it goes in this encyclopedia anyway, because I want you to see how fast a coincidence like this becomes "a known fact."** 😜 *If I had written this in Round 1 without the ⚠️ it would already be on three listicles as Haruba's inside joke. That is the entire life-cycle of a fandom fact and you are watching it happen in a document about yourself.*
+**Also newly pinned (all primary, all from the same database):** S1's side cast was **女性教師・図書委員 = 衣川里佳** ⚠️ *who is Ichika's singer in the manga's own 歌 frames — flag only*, **体育教師 = 杉崎亮**, **教師 = 手塚ヒロミチ**, and **ハゲネズミ先生 = 高橋伸也**, who is credited **by nickname in both ∬ and the film** — the only side character whose joke-name survived into three releases. 🤓 **A teacher whose name is a schoolboy insult, credited as that insult, repeatedly, officially. If that's not permission to name a side character after the way the protagonist thinks of them, nothing is.**
+
+## 2.4 FOOD IS THE ONLY LANGUAGE THE SISTERS SHARE
+
+**New in Round 2, from chapter-level summaries of ch.105 「最後の祭りが三玖の場合①」** — and ⚠️ *that title is now confirmed on 講談社's own serialization page* [pocket.shonenmagazine 第105話](https://pocket.shonenmagazine.com/title/00298/episode/295122), which independently **re-verifies my Round-3 festival-block assignment 105–106 = 三玖** (see §2 census). The content:
+- **Miku, who "can't cook," spends the pre-festival sequence making pancakes** — 「母・零奈や二乃に負けないぐらい美味しいパンケーキを作ろうと頑張る」 *determined to make pancakes as good as her mother's or Nino's*, with **「たくさんのパンケーキの失敗作が並んでいます」** — a pile of failures — while Itsuki drools and taste-tests and asks her *why she's trying so hard*.
+- **The festival's actual conflict is a food war: girls' pancake stall vs the boys' takoyaki stall**, and it is **Miku** — not the tutor, not the cook — who walks into the boys' stall alone and ends the feud. ⚠️ *Fuutarou explicitly declines to go in her place: 「この現状を変えられるとしたら中立の立場にいる学級長の自分ではなく、三玖だ」* — *the narrator names her as the only person who can fix it and then does nothing.* **That is the single most important line in this section for Jesús: the protagonist's most valuable act in the mid-game is *identifying who else should act*, and then stepping out of the frame.** ⚠️ *from a ch.105 recap, i.e. the words are the recapper's; the scene structure is corroborated by a second blog.*
+- **Then her victory immediately causes the takoyaki stall to catch fire and be shut down.** ⚠️ *「コンロを高火力に改造した」 per the same recap, cause uncertain in-story.*
+- **The food ladder, complete:** **二乃 = パンケーキ (mastery, inherited) → 三玖 = 失敗作 (effort, imitated) → 一花 = 塩辛 (a taste nobody else has) → 四葉 = みかん (a fruit you eat standing up) → 五月 = 肉 & カレーを飲む (appetite as identity).** ⚠️ *the 三玖-pancake-and-nothing-else link is what makes the mother's recipe motif cohere — and I still cannot confirm Haruba ever called it 「中野家秘伝」 outside a fan summary. E55, stays open.*
+
+> ### 💡 RULE 8 — GIVE YOUR SIXTH CHARACTER A FOOD, NOT A TRAIT
+> **In this property, what a sister *eats* outlives every personality adjective anyone has written about her.** Food is the only motif that survives all five identification layers (it's not color, not voice, not hair, and it's not even in most of the plot) and it's the one the fandom has kept. ⚠️ *And note what Jesús must NOT get: he must not be "the one who brings them food" — 二乃 owns that, and Miku's whole ch.105 is about failing at it on purpose.* **Give him the thing that is not on the ladder: the meal nobody eats — for me, ⚠️ your call: the lunch he never opens, the coffee he buys and doesn't drink, the food he's allergic to and orders anyway.** ⚜️ *A habit is a trait; an uneaten object is a plot. Ch.105's pile of failed pancakes is worth more than two hundred words of "she's determined."*
+
+## 2.5 ⚠️ ERRATA & OPEN ITEMS, ROUND 2 EDITION (E54–E58)
+
+| ID | Claim | Status |
+|---|---|---|
+| **E54** | The "3rd official popularity vote, 1,509 / 962, 31.1%." | 🔴 **Not official, and the number is stolen arithmetic.** The blog that publishes it as 「第3回 公式人気投票」 uses **962 votes / 19.8% for Itsuki — the exact figure ITmedia published in its *2024 reader survey*** (「【30代男性が選ぶ】俺の嫁」 line), and 962/4,859 = 19.797%: **it invented a total from a magazine's demographic sample and stamped it 公式.** 🤓 *This is the anatomy of how fake consensus is manufactured, and I am keeping the arithmetic in the file so you can recognize the shape when it appears in your own comments: **a real number + a fabricated denominator + the word "official."*** |
+| **E55** | 二乃's favorite food = pancakes "because they're the mother's recipe." | ⚠️ **Still open.** What is now verified: Miku attempting pancakes to match 零奈 and 二乃 (ch.105 recaps) and 「中野家秘伝スフレパンケーキ」 circulating as a name in fandom. **Never print the "because."** |
+| **E56** | 竹達彩奈 = 1989 / 佐倉綾音 = 1994 / 水瀬いのり = 1995. | ⚠️ **Aggregator-tier.** The year for Minase (1995) is corroborated by animatetimes; Sakura's 1994 and Taketatsu's 1989 are single-sourced from a blog that is otherwise unreliable (it also prints 「実写化」 — "live action" — for a voice cast, which is a template). **The age ladder stands only if you read 伊藤 as 1996 (officially derivable) and 花澤 as 1989 (officially printed); treat the middle three as ~.** |
+| **E57** | 佐倉薫 in the film's 無名 list = Ayane Sakura. | ⚠️ **Name verified as her real name; identity of the credit unverified.** Do not repeat this outside the encyclopedia. |
+| **E58** | M・A・O ↔ マルオ. | 🔴 **Coincidence. Included only as a specimen** (see §2.3). **If this file is ever quoted, this row must be quoted with it.** |
+| **E50 (revisited)** | the grandfather's VA (ja 仲野裕 vs ko Yutaka Nakano). | ⚠️ Still unresolved, but Round 2 makes my earlier hypothesis *worse*: with 佐倉薫 sitting in the 無名 list, **this cast list demonstrably contains real-name credits and database-synonymized names**, which is exactly how a 中野ユタカ got into a Korean infobox. 🤓 *A contradiction usually means someone in the chain was working from a credit list they didn't understand. It is almost never "the other wiki is wrong."* |
+| **E30 (continued)** | manga access · Jesús's summary · the LatAm terminology sheet | ⚠️ **Round 2 raised the price of the second one and not the others.** §2.2 asks you to choose a rung on the silence ladder, and §2.1's Rule 6 asks you to choose which sister Jesús's popularity belongs to. **Both are single decisions and both are cheaper to make now than in Part 2.** |
+
+**Two things I went looking for and could not find, recorded so nobody re-tries:** the results of the **「名台詞投票キャンペーン」** run by TBS for the 5th Anniversary event ([campaign page](https://www.tbs.co.jp/anime/5hanayome/tvsp/event/), open 2024-03-15→04-01, one vote per person) — **the winning line is published somewhere in Japanese and I could not reach it in this pass**; and any official figure for the *first* 名台詞 poll's vote count.
+
+---
+
+> ### 🥊 ROUND 2 VERDICT
+> **Round 1 said the five are one body with four identification layers. Round 2 adds: the body was assembled from a cast list that is *ordered by age*, a poll history where the winner is always second, a sound mix with no protagonist in it, and a food system where the same object means inheritance in one sister and imitation in another.**
+> **⚠️ The most quotable line I found this round is also the one I trust least: "the bride's voice actress is hiding unnamed in the credits of the wedding movie." Great story, one source, name-level evidence only.** 🤓 *But the silent-protagonist finding behind it has a publisher's press release and a price list attached, and it hands your manuscript the one thing it still lacked: **proof that the market pays for a hero who speaks less than the heroines.***
+> *Next up: §4 fun facts — where the Olympic rings go, where M・A・O goes, and where every number I refused to build on finally gets to be a party.*
