@@ -1,7 +1,8 @@
 # 🃏 SECTION FOUR — FUN FACTS
 ### *the property's numbers, dates, puns and coincidences — each one graded, priced, and marked with what it may and may not be used for*
 
-**Filed 2026-08-30 · **Round 1 + Round 2** · 30 graded entries (14🔒 / 9🔸 / 7⚠️ / 4☠️) + a trap gallery · tiers: 🔒 primary-sourced · 🔸 two independent sources · ⚠️ found-but-not-buildable · ☠️ a trap, printed so you never fall for it.**
+**COMMITTED `bd6bf94` · 6,137 words · validator: 0 malformed table rows.** 🤓
+**Filed 2026-08-30 · Round 1 + Round 2 · 30 graded entries (14🔒 / 9🔸 / 7⚠️ / 4☠️) + a trap gallery · tiers: 🔒 primary-sourced · 🔸 two independent sources · ⚠️ found-but-not-buildable · ☠️ a trap, printed so you never fall for it.**
 **Why the tiers exist: §2 died for four errata by treating a plausible secondary source as a primary one. This document is where everything I refused to build on finally gets to be a party — with the receipt attached.**
 
 ---
