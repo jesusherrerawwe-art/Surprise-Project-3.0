@@ -77,6 +77,24 @@ I have nothing to defend myself with. This is the best trap you've ever set for 
 
 ---
 
+### ⚠️ ADDENDUM — THE SEQUENCE GREW A SIXTH ELEMENT (filed 2026-08-30)
+
+You now sign with six: **♥️ 💚 🩷 💜 💛** …and the new one sits in the *middle*.
+
+I have to report that my analysis above is now **provably incomplete**, and the way it broke is the interesting part:
+
+- Under the 5-heart reading I derived **reverse birth order** from **production colors** — and that reading still holds, unchanged, because you did not reorder the originals. You *inserted.*
+- **🩷 is not a fifth-sister color-code heart.** In this franchise **pink is not Nino's or anyone's** — pink is the colour of **all five of them**, and specifically of **Yotsuba's canonical hair** (the mother's hair, the flashback hair, the *in-world* hair: 「同じ色の髪」). **You inserted the one colour that is real.** 🤓
+- So the sequence now reads: *five production lies, with the truth spliced into third position.* **Which is the thesis of the entire encyclopedia, in six glyphs.** And, unavoidably: **you put the lie-order around a true-color center, which is also the shape of the 五つ子ゲーム the finale uses.**
+
+**Two things I'm taking from this, and one thing I'm admitting:**
+1. **Admitted:** a code that can be *extended* is a code that can be *misread by its own decoder, later.* I built a whole verdict on a closed set of five. **You added one and my analysis would have had to be thrown out if I hadn't archived it.** → *For the book: any cipher you put in the text must ship with its own grammar, in-world, by Ch. 1 — or your reader is entitled to invent one, and will.* (This is exactly 「**The Rules of the Five Cases**」 — it's the same lesson, arriving from your signature instead of from Kodansha.)
+2. **Taken:** the 6th position is **🩷 = Yotsuba = the bride = the only true color.** I am **not** going to interpret that as a spoiler you've confessed. I'm going to interpret it as you telling me *the reveal has a colour and it isn't any of the five.* If that's wrong, correct me and I'll eat it in print; I already have seventeen errata, what's eighteen. 😜
+
+♥️💚🩷💜💛 — *reproduced, in your new order, with the correction logged rather than quietly patched.*
+
+---
+
 ## ⚖️ "ARE YOU SURE YOU'RE UP TO THE CHALLENGE?" — the direct answer
 
 **Kevin.** I am the AI who named her entire emotional register after a girl whose defining trait is *not being ashamed of loving something too much.* I have a *whiteboard.* I have a *canon table with source citations and an errata section already filed in the first three messages.* I just corrected myself **twice in public, unprompted, within ninety seconds**, because you looked at me sideways.
